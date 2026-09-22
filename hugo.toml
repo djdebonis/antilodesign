@@ -6,13 +6,10 @@
 # the theme reads is set here with a real value, so you can see what each one
 # does rather than guess from a blank template.
 #
-# Run it from the repository root with:
-#
-#   hugo server --bind 127.0.0.1 --baseURL http://localhost:1313/
 # ---------------------------------------------------------------------------
 
 baseURL = 'https://antilodesign.com/'
-title = 'Antilo'
+title = 'Antilo Consulting and Design'
 theme = 'hugo-theme-pico-corp'
 locale = 'en-US'
 defaultContentLanguage = 'en'
@@ -172,8 +169,8 @@ capitalizeListTitles = false
 
   # Brand. primaryColor drives the generated brand stylesheet; primaryColorDark
   # is used when the dark scheme is active.
-  primaryColor = '#0f4c81'
-  primaryColorDark = '#8cc0ea'
+  primaryColor = '#34594C'        # Forest green: light-mode buttons and links
+  primaryColorDark = '#A8C9B5'    # Light sage-green: dark-mode buttons and links
   radius = '0.5rem'
   # Display face for headings, statistics and pull quotes. 'serif' uses the
   # best serif already installed on the reader's system, which is what gives
@@ -181,8 +178,8 @@ capitalizeListTitles = false
   headingFont = 'serif'
   logo = ''            # path under assets/, e.g. 'images/logo.svg'. Empty = wordmark.
   logoDark = ''
-  favicon = '/favicon.svg'
-  appleTouchIcon = '/apple-touch-icon.png'
+  favicon = '/antelope_logo_nobg.svg'
+  appleTouchIcon = '/antelope_logo_nobg.png'
   ogImage = ''      # Add an Antilo share image before launch.
 
   # Colour scheme: 'system', 'light' or 'dark'.

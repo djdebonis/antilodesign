@@ -1,0 +1,129 @@
+/* Antilo palette overrides. Pico Corp automatically loads this file last.
+   Buttons and links: params.primaryColor / primaryColorDark in hugo.toml.
+   Everything below changes color only; the theme still controls layout.
+   See COLOR-GUIDE.md for a map of these settings. */
+
+/* 1. Light: warm off-white pages, ink type, sage sections, stone supporting surfaces. */
+:root, [data-theme="light"] {
+  --pc-bg: #FCFBF8;
+  --pc-bg-muted: #DDE5DA;
+  --pc-bg-sunken: #E7E0D5;
+  --pc-surface: #FCFBF8;
+  --pc-surface-raised: #E7E0D5;
+  --pc-text: #243330;
+  --pc-text-soft: #3E5148;
+  --pc-text-muted: #526158;
+  --pc-border-color: #E7E0D5;
+  --pc-border-strong: #7B877B;
+  --pc-bg-inverse: #243330;
+  --pc-text-inverse: #F7F4ED;
+  --pc-text-inverse-muted: #DDE5DA;
+  --pc-on-accent: #F7F4ED;
+  --antilo-clay: #A44832;
+  --pc-focus-color: var(--pc-accent);
+}
+
+/* 2. Dark: repeat the same values for automatic and manual dark mode.
+   Keep these two blocks in sync when changing the dark palette. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --pc-bg: #18221F;
+    --pc-bg-muted: #243330;
+    --pc-bg-sunken: #2C3E36;
+    --pc-surface: #20302A;
+    --pc-surface-raised: #2C3E36;
+    --pc-text: #F7F4ED;
+    --pc-text-soft: #DDE5DA;
+    --pc-text-muted: #B7C5B8;
+    --pc-border-color: #40574B;
+    --pc-border-strong: #819888;
+    --pc-bg-inverse: #E7E0D5;
+    --pc-text-inverse: #243330;
+    --pc-text-inverse-muted: #3E5148;
+    --pc-on-accent: #18221F;
+    --antilo-clay: #E4A18A;
+  }
+}
+
+[data-theme="dark"] {
+  --pc-bg: #18221F;
+  --pc-bg-muted: #243330;
+  --pc-bg-sunken: #2C3E36;
+  --pc-surface: #20302A;
+  --pc-surface-raised: #2C3E36;
+  --pc-text: #F7F4ED;
+  --pc-text-soft: #DDE5DA;
+  --pc-text-muted: #B7C5B8;
+  --pc-border-color: #40574B;
+  --pc-border-strong: #819888;
+  --pc-bg-inverse: #E7E0D5;
+  --pc-text-inverse: #243330;
+  --pc-text-inverse-muted: #3E5148;
+  --pc-on-accent: #18221F;
+  --antilo-clay: #E4A18A;
+}
+
+/* 3. Clay is an editorial accent. Buttons retain green hover states. */
+.eyebrow {
+  color: var(--antilo-clay);
+}
+
+/* 4. A consistently ink-colored footer in both modes.
+   Local tokens keep the theme's links, fine print, and icons readable. */
+.site-footer {
+  --pc-bg-muted: #243330;
+  --pc-bg-sunken: #34594C;
+  --pc-text: #F7F4ED;
+  --pc-text-muted: #DDE5DA;
+  --pc-accent: #A8C9B5;
+  --pc-accent-hover: #F7F4ED;
+  --pc-border-color: #526158;
+  --pc-border: 1px solid var(--pc-border-color);
+  --pc-focus-color: #A8C9B5;
+  color: var(--pc-text);
+}
+
+.site-footer a {
+  color: var(--pc-text-muted);
+}
+
+.site-footer a:hover,
+.site-footer .brand {
+  color: var(--pc-text);
+}
+
+/* 5. Keep Pico defaults aligned even before a visitor chooses a mode.
+   Pico uses a more specific automatic-light selector than the theme does. */
+:root, :root:not([data-theme]), [data-theme] {
+  --pico-background-color: var(--pc-bg);
+  --pico-color: var(--pc-text);
+  --pico-h1-color: var(--pc-text);
+  --pico-h2-color: var(--pc-text);
+  --pico-h3-color: var(--pc-text);
+  --pico-h4-color: var(--pc-text);
+  --pico-h5-color: var(--pc-text);
+  --pico-h6-color: var(--pc-text);
+  --pico-muted-color: var(--pc-text-muted);
+  --pico-muted-border-color: var(--pc-border-color);
+  --pico-card-background-color: var(--pc-surface);
+  --pico-card-border-color: var(--pc-border-color);
+  --pico-card-sectioning-background-color: var(--pc-bg-muted);
+  --pico-code-background-color: var(--pc-bg-muted);
+  --pico-code-color: var(--pc-text);
+  --pico-blockquote-border-color: var(--pc-border-strong);
+  --pico-form-element-background-color: var(--pc-bg);
+  --pico-form-element-border-color: var(--pc-border-strong);
+  --pico-form-element-placeholder-color: var(--pc-text-muted);
+  --pico-mark-background-color: color-mix(in srgb, var(--pc-accent) 16%, transparent);
+  --pico-mark-color: var(--pc-text);
+  --pico-primary: var(--pc-accent);
+  --pico-primary-background: var(--pc-accent);
+  --pico-primary-border: var(--pc-accent);
+  --pico-primary-underline: color-mix(in srgb, var(--pc-accent) 36%, transparent);
+  --pico-primary-hover: var(--pc-accent-hover);
+  --pico-primary-hover-background: var(--pc-accent-hover);
+  --pico-primary-hover-border: var(--pc-accent-hover);
+  --pico-primary-hover-underline: var(--pc-accent-hover);
+  --pico-primary-focus: var(--pc-focus-color);
+  --pico-primary-inverse: var(--pc-on-accent);
+}
