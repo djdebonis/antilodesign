@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Hugo generated output and local build state
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# Mac
+.DS_Store
