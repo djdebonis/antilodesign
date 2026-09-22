@@ -1,6 +1,6 @@
 ---
-title: "Journal"
-description: "Notes on web performance, design systems, accessibility and running a small studio, written by the people doing the work at Northstar Digital."
-eyebrow: "Journal"
-lead: "Working notes rather than thought leadership. What we tried, what it cost, and what we would do differently."
+title: "Ideas for your next step"
+description: "Practical notes from Antilo on website design, digital and print marketing, SEO, and local visibility."
+eyebrow: "Ideas"
+lead: "Useful starting points for a clearer website and more connected marketing."
 ---

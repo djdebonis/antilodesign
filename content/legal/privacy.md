@@ -1,34 +1,17 @@
 ---
-title: "Privacy"
-description: "What Northstar Digital collects on this website, why, and how long it is kept."
-eyebrow: "Legal"
-lead: "This demo site collects nothing. The section below is a starting point for your own policy, not legal advice."
+title: "Privacy information"
+description: "Privacy notice placeholder for the Antilo website."
+eyebrow: "Site information"
+lead: "This notice is being prepared for launch."
 cta: false
-breadcrumbs: true
 ---
 
-## This is placeholder text
+## Policy in preparation
 
-The theme ships this page so the footer links resolve and so you have a structure
-to replace. Have your own policy reviewed by someone qualified before you publish.
+This page is a placeholder, not a completed privacy policy. The final notice needs to describe the actual hosting, contact, analytics, and marketing services used on the published site.
 
-## What this site collects
+## Before this page is complete
 
-Nothing by default. The theme loads no webfonts, no third-party scripts and sets
-no cookies. Your colour scheme preference is stored in your browser's local
-storage and never leaves your device.
+Confirm what information is collected, why it is used, who processes it, how long it is retained, and how someone can contact Antilo about it. Include the choices available to visitors based on the final setup.
 
-If you enable analytics through `params.analytics`, a third-party script is loaded
-and you must document it here.
-
-## Contact enquiries
-
-When you send the contact form, the details you submit are processed by whichever
-form service the site owner has configured, and are used only to reply to your
-enquiry.
-
-## Your rights
-
-Under the GDPR you may request access to, correction of, or deletion of personal
-data held about you, and you may object to its processing. Write to the address in
-the imprint.
+The contact form endpoint and analytics settings are currently unconfigured in the site source. Update this notice to reflect the deployed website before collecting inquiries.

@@ -35,10 +35,11 @@ Production configuration remains `https://antilodesign.com/` in `hugo.toml`.
 
 ## Demo content and deployment
 
-**The current business copy is fictional demo content.** See
-[DEMO-CONTENT.md](DEMO-CONTENT.md) for the replacement checklist before launch.
-Only the site/home title and display company name have been changed to Antilo;
-the example layout is retained.
+The site now contains starter copy for Antilo, a Denver, Colorado design and
+marketing agency focused on websites, digital and print marketing, SEO, and local
+SEO. The example layout is retained. See [DEMO-CONTENT.md](DEMO-CONTENT.md) for
+remaining placeholders and the editing guide. Project concepts are illustrative;
+team details and testimonials still need real, approved content.
 
 There were no GitHub Actions workflows in the parent repository at setup time.
 No deployment workflow has been added. If one is added later, its checkout

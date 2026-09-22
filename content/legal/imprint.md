@@ -1,34 +1,19 @@
 ---
-title: "Imprint"
-description: "Company details for Northstar Digital, a fictional studio used to demonstrate the pico-corp Hugo theme."
-eyebrow: "Legal"
-lead: "Company information, required in several jurisdictions. Every detail below is fictional."
+title: "Business information"
+description: "Business information for Antilo, a design and marketing agency based in Denver, Colorado."
+eyebrow: "Site information"
+lead: "Antilo · Denver, Colorado"
 cta: false
 ---
 
-## Company
+## About this site
 
-Northstar Digital GmbH
-Chausseestraße 42
-10115 Berlin
-Germany
+This is the working website for Antilo, a marketing consultancy and design firm based in Denver, Colorado.
 
-## Contact
+## Details to complete
 
-Email: hello@northstar.example
-Phone: +49 30 5550 1847
+The legal business name, public contact email, and any applicable mailing or business address have not yet been added. This page will be updated with confirmed information before launch.
 
-## Registration
+## Project examples and imagery
 
-Commercial register: Amtsgericht Berlin-Charlottenburg, HRB 000000
-VAT identification number: DE 312 998 471
-Managing directors: Marta Vogel, Ruben Dias
-
-## Responsible for content
-
-Marta Vogel, at the address above.
-
-## Note
-
-Northstar Digital is a fictional company created to demonstrate the pico-corp
-Hugo theme. Photography is supplied by Lorem Picsum as placeholder imagery.
+The project concepts on this site are illustrative briefs. They do not describe completed client work. Photos are temporary theme assets, and team and testimonial areas are clearly marked placeholders.

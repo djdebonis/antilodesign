@@ -1,92 +1,102 @@
 ---
-title: "Antilo: Consulting and Design Services for Mission-Driven Busiensses and Brands"
-description: "Antilo Consulting is a marketing and communications firm out of Denver, Colorado."
+title: "Antilo"
+description: "Antilo is a Denver, Colorado marketing consultancy and design agency specializing in website design, digital and print marketing, SEO, and local SEO."
 sections:
-  - type: hero
-    eyebrow: "Berlin product studio"
-    title: "Digital work that survives contact with your customers"
-    lead: "We design and build websites, platforms and brand systems for mid-sized companies. Nine senior specialists, no account managers, and a written scope before anyone writes code."
-    image: images/hero.jpg
-    imageAlt: "The Northstar Digital studio in Berlin during a working session"
+  -
+    type: "hero"
+    title: "Good design. Clear marketing. More ways to be found."
+    eyebrow: "Denver, Colorado | Marketing, Content Creation, & Design Services"
+    lead: "Antilo helps businesses show up with confidence—online, in print, and in local search. We bring website design, marketing strategy, and creative work together around your next step."
+    image: "images/hero.jpg"
+    imageAlt: "Placeholder photography for the Antilo homepage"
     primary:
-      label: "Book an intro call"
-      url: /contact/
+      label: "Talk about your project"
+      url: "/contact/"
     secondary:
-      label: "See our work"
-      url: /work/
-    note: "Currently taking on **two projects for Q2 2026**."
+      label: "Explore our services"
+      url: "/services/"
+    note: "Based in Denver, Colorado. Built around your business."
     facts:
-      - value: "11 yrs"
-        label: "In business"
-      - value: "64"
-        label: "Projects delivered"
-      - value: "92%"
-        label: "Clients return"
-
-  - type: logos
-    title: "Trusted by operators in energy, health, logistics and manufacturing"
-
-  - type: services
-    eyebrow: "Services"
-    title: "Six disciplines, one delivery team"
-    lead: "Most engagements combine two or three of these. You get one team and one lead rather than a handover between departments."
-    tone: muted
+      -
+        value: "Web"
+        label: "Design with a purpose"
+      -
+        value: "Print"
+        label: "A brand you can hold"
+      -
+        value: "Search"
+        label: "Help customers find you"
+  -
+    type: "logos"
+    title: "Who we design for"
+    eyebrow: "Your kind of business"
+  -
+    type: "services"
+    title: "Bring your marketing together"
+    eyebrow: "Our services"
+    lead: "From the first search to the first conversation, make every touchpoint feel like the same business."
+    tone: "muted"
     link:
-      label: "All services in detail"
-      url: /services/
-
-  - type: work
-    eyebrow: "Selected work"
-    title: "Case studies with numbers in them"
-    lead: "Every project below includes what changed, measured before and after launch."
+      label: "Explore all services"
+      url: "/services/"
+  -
+    type: "work"
+    title: "What the possibilities look like"
+    eyebrow: "Illustrative project briefs"
+    lead: "These sample scenarios show how website design, search, and print can work together. They are concepts, not completed client projects."
     limit: 3
     feature: true
     link:
-      label: "Browse all case studies"
-      url: /work/
-
-  - type: about
-    eyebrow: "The studio"
-    title: "A small team that stays on the project"
-    lead: "Northstar Digital has been independent since 2014. We deliberately stay small so the people you meet in the first call are the ones writing the code."
-    tone: muted
-    image: images/about-studio.jpg
-    imageAlt: "Two designers reviewing interface work on a large monitor"
+      label: "Explore the concepts"
+      url: "/work/"
+  -
+    type: "about"
+    title: "A Denver perspective. A practical plan."
+    eyebrow: "Meet Antilo"
+    lead: "We are a marketing consultancy and design firm in Denver, Colorado. We help businesses clarify their message and bring it to life across websites, search, and everyday marketing."
+    tone: "muted"
+    image: "images/about-studio.jpg"
+    imageAlt: "Placeholder photography for the Antilo about section"
     points:
-      - title: "One team from discovery to launch"
-        text: "No handover to a delivery unit halfway through. The lead who scoped the work signs off the release."
-      - title: "Fixed scope, visible progress"
-        text: "Two-week increments on a staging URL, so you always know what exists rather than what is planned."
-      - title: "Performance and accessibility as requirements"
-        text: "Core Web Vitals and WCAG 2.2 AA are written into the contract and enforced in continuous integration."
+      -
+        title: "Start with the business"
+        text: "Understand your customers, your offer, and what needs to happen next."
+      -
+        title: "Connect the details"
+        text: "Keep your website, print pieces, and campaigns working from the same direction."
+      -
+        title: "Make the work useful"
+        text: "Create clear, considered materials with a practical role in your marketing."
     link:
-      label: "More about how we work"
-      url: /about/
-
-  - type: stats
-
-  - type: process
-    eyebrow: "Process"
-    title: "How a project actually runs"
-    lead: "Four phases, each ending with something you can review. Nothing is invoiced against a milestone you cannot see."
-    tone: muted
-
-  - type: testimonials
-    eyebrow: "Clients"
-    title: "What people say once the invoices are settled"
+      label: "Get to know Antilo"
+      url: "/about/"
+  -
+    type: "stats"
+    title: "A connected approach"
+    eyebrow: "Our focus"
+  -
+    type: "process"
+    title: "From a good conversation to work you can use"
+    eyebrow: "The process"
+    tone: "muted"
+  -
+    type: "testimonials"
+    title: "Room for your client stories"
+    eyebrow: "Testimonials coming soon"
+    lead: "This section is reserved for real feedback, shared with permission."
     limit: 3
-
-  - type: pricing
-    eyebrow: "Engagement"
-    title: "Three ways to work with us"
-    lead: "Ranges are indicative and exist to disqualify poor fits early. After a discovery sprint you get a fixed price."
-    tone: muted
-    note: "All figures exclude VAT. Public sector and non-profit rates on request."
-
-  - type: faq
+  -
+    type: "pricing"
+    title: "Start where your business needs support"
+    eyebrow: "Ways to work together"
+    lead: "A defined project, a clearer plan, or ongoing creative support. We shape the scope around your priorities."
+    tone: "muted"
+    note: "Scope, schedule, and pricing are confirmed in a proposal. Advertising, printing, and other outside costs are quoted separately."
+  -
+    type: "faq"
+    title: "Before we get started"
     eyebrow: "Questions"
-    title: "Before you get in touch"
-    group: general
-
-  - type: cta
+    group: "general"
+  -
+    type: "cta"
 ---

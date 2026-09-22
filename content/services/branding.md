@@ -1,60 +1,56 @@
 ---
-title: "Branding"
+title: "Branding & Marketing Strategy"
 weight: 50
 icon: "spark"
-description: "Identity systems for companies that need to look credible to enterprise buyers, delivered as working assets rather than a PDF."
+description: "Brand positioning, visual identity, and practical marketing consulting for Denver businesses."
 eyebrow: "Service"
-lead: "Identity work for companies whose customers are other companies. Restrained, durable, and delivered as assets your team can actually use."
-summary: "Identity systems built for B2B credibility and delivered as working, documented assets."
+lead: "Get clear about who you serve, what you offer, and how to communicate it. Then carry that direction into your identity, website, and marketing materials."
+summary: "Brand positioning, visual identity, and practical marketing consulting for Denver businesses."
 highlights:
-  - "Verbal and visual identity together"
-  - "Delivered as production-ready assets"
-  - "Guidelines short enough to be followed"
-engagement: "Fixed-price project, usually alongside a website or product engagement."
-timeline: "5 to 9 weeks."
-stack:
-  - Figma
-  - Variable fonts
-  - SVG optimisation
-  - Brand guidelines
-benefits:
-  - title: "Credibility with procurement"
-    text: "Enterprise buyers read inconsistency as risk. A coherent identity across proposal, site and product removes an objection you never hear."
-  - title: "Words as well as marks"
-    text: "Positioning, tone of voice and the twelve phrases your team repeats. Most brand failures are verbal, not visual."
-  - title: "Assets, not a presentation"
-    text: "Optimised logo files, a type scale, tokens in code, document and slide templates. Everything usable the week it lands."
-  - title: "Durable rather than fashionable"
-    text: "We design so the identity still works in five years, which means restraint and a small number of decisions applied consistently."
-process:
-  - title: "Position"
-    text: "Interviews with sales and customers, a competitive scan, and agreement on what the company is claiming."
-    duration: "1 to 2 weeks"
-  - title: "Verbal identity"
-    text: "Positioning statement, tone of voice with examples, naming conventions and boilerplate copy."
-    duration: "1 week"
-  - title: "Visual identity"
-    text: "Two directions, then refinement of one: wordmark, type, colour, layout principles and photography direction."
-    duration: "2 to 4 weeks"
-  - title: "Roll out"
-    text: "Asset production, templates, design tokens and a short guideline document people will actually open."
-    duration: "1 to 2 weeks"
-deliverables:
   - "Positioning and messaging"
-  - "Tone of voice guide"
-  - "Wordmark and logo files"
-  - "Type and colour system with tokens"
-  - "Document and slide templates"
-  - "Brand guidelines, 20 pages or fewer"
-relatedWork:
-  - /work/lumen-design-system
-  - /work/halden-industrial-website
+  - "Visual identity and brand guidance"
+  - "Marketing priorities and planning"
+engagement: "A focused project or ongoing support, scoped around your priorities."
+timeline: "Schedule confirmed after we review the scope and available content."
+benefits:
+  -
+    title: "Explain why you matter"
+    text: "Develop a message that connects your strengths to the needs of your customers."
+  -
+    title: "Build a recognizable identity"
+    text: "Bring logo, color, typography, and imagery into a consistent visual direction."
+  -
+    title: "Make everyday work easier"
+    text: "Create guidance and reusable assets for the materials your business uses most."
+  -
+    title: "Know what to tackle next"
+    text: "Turn a broad marketing wish list into a sequence of practical priorities."
+process:
+  -
+    title: "Understand"
+    text: "Review the business, audience, existing materials, and goals."
+    duration: "Discovery"
+  -
+    title: "Plan"
+    text: "Agree on priorities, deliverables, and a direction for the work."
+    duration: "Planning"
+  -
+    title: "Create"
+    text: "Develop the work and refine it with your feedback."
+    duration: "Design and delivery"
+  -
+    title: "Put it to work"
+    text: "Prepare the agreed handoff and identify the next useful improvements."
+    duration: "Launch and review"
+deliverables:
+  - "Brand and audience brief"
+  - "Messaging direction"
+  - "Visual identity assets as scoped"
+  - "Brand guidelines and marketing priorities"
 ---
 
-We are not a brand agency and do not pretend to be one for consumer launches.
-What we do well is identity for companies selling to other companies, where the
-job is credibility rather than cultural relevance.
+## Give your business a message people can recognize.
 
-That work is mostly subtraction: fewer colours, one typeface used properly, and
-a clear sentence about what the company does that everyone in the company can
-repeat without looking it up.
+A brand lives in more places than a logo. It is in the way your website explains a service, the proposal you send, and the material a customer takes home.
+
+Our consulting and design work brings those pieces together. Whether you need a new identity or a clearer use of what you already have, the starting point is the same: understand the business before deciding how it should look and sound.

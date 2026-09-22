@@ -1,25 +1,24 @@
 ---
-title: "Contact"
-description: "Talk to Northstar Digital about a project. A 30 minute call with the people who would do the work, no sales team in between."
-eyebrow: "Contact"
-lead: "Write a paragraph about the problem and we will reply within one working day. First calls are 30 minutes with the person who would lead the work."
+title: "Let’s talk about your next step"
+description: "Start a conversation with Antilo about website design, digital and print marketing, SEO, or local SEO in Denver, Colorado."
+eyebrow: "Contact Antilo"
+lead: "Tell us a little about your business, what you want to improve, and where you could use a hand. A rough idea is a perfectly good starting point."
 sections:
-  - type: faq
-    eyebrow: "Before you write"
-    title: "Questions people ask first"
-    group: contact
-    tone: muted
-
-  - type: faq
-    title: "How we price and structure work"
-    group: pricing
+  -
+    type: "faq"
+    title: "What to include"
+    group: "contact"
+    tone: "muted"
+  -
+    type: "faq"
+    title: "Scope and budget"
+    group: "pricing"
 ---
 
-## What happens after you send this
+## A useful first conversation
 
-You get a reply within one working day, from Marta or Ruben rather than an
-autoresponder. If the fit looks plausible we suggest a 30 minute call. If it does
-not, we say so and point you at someone who suits the problem better.
+Share your current website, the services you are interested in, and any target date or budget you have in mind. We can use that context to talk through the next step.
 
-Nothing is stored in a CRM that sells your details onward, and we do not add
-enquiries to a mailing list.
+Based in Denver, Colorado, Antilo focuses on clear design and practical marketing for businesses that want a more consistent presence.
+
+**Contact setup is in progress.** This preview does not yet have a working inquiry form or a confirmed public email address. Contact details will be added before launch.

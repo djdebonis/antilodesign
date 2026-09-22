@@ -1,23 +1,20 @@
 ---
-title: "Services"
-description: "Web development, software development, UI/UX design, digital strategy, branding and consulting, delivered by one senior team in two-week increments."
+title: "Design and marketing services"
+description: "Website design, digital and print marketing, branding, SEO, and local SEO from Antilo in Denver, Colorado."
 eyebrow: "What we do"
-lead: "Six disciplines that combine into one delivery team. Most engagements use two or three of them, led by the person who scoped the work."
+lead: "A clearer brand. A more useful website. Marketing that connects the two. Choose a focused project or bring the pieces together with one plan."
 sections:
-  - type: process
-    eyebrow: "Process"
-    title: "The same four phases, whatever the discipline"
-    lead: "Phase boundaries are where you can change your mind cheaply. We make them explicit rather than letting scope drift."
-    tone: muted
-
-  - type: faq
-    eyebrow: "Questions"
-    title: "How engagements are structured"
-    group: process
-
-  - type: cta
+  -
+    type: "process"
+    title: "A clear path from idea to launch"
+    eyebrow: "How we work"
+    tone: "muted"
+  -
+    type: "faq"
+    title: "A few practical questions"
+    group: "process"
+  -
+    type: "cta"
 ---
 
-Every project starts with the same question: what has to be true for this to
-work commercially? The answer usually spans more than one discipline, which is
-why we do not sell design and engineering as separate contracts.
+Your business may need a new website, a stronger local presence, or marketing materials that finally feel like they belong together. We help identify the priority and build from there.

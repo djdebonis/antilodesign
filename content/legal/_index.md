@@ -1,7 +1,7 @@
 ---
-title: "Legal"
-description: "Imprint and privacy information for Northstar Digital."
-eyebrow: "Legal"
-lead: "Company details and data protection information."
+title: "Site information"
+description: "Site information and policy placeholders for Antilo."
+eyebrow: "Site information"
+lead: "Business details and privacy information will be completed before launch."
 cta: false
 ---

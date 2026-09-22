@@ -1,7 +1,7 @@
 ---
-title: "Categories"
-description: "Browse Northstar Digital's journal by category."
-eyebrow: "Journal"
-lead: "Four running threads: engineering, design, strategy and notes on the studio itself."
+title: "Browse by topic"
+description: "Explore Antilo articles by marketing and design topic."
+eyebrow: "Ideas"
+lead: "Find ideas about websites, marketing, design, and search."
 cta: false
 ---
