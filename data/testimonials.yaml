@@ -1,28 +1,15 @@
-- quote: >-
-    They rebuilt the customer portal in four months and it has not needed a
-    rescue since. The handover documentation was better than our internal
-    standard, which was mildly embarrassing for us.
-  name: Annika Roth
-  role: Head of Digital
-  company: Northwind Energy
-- quote: >-
-    What stood out was how early we saw something real. There was a working
-    staging environment in week three, and every decision after that was
-    argued with data instead of slides.
-  name: Tobias Lehmann
-  role: Managing Director
-  company: Halden Manufacturing
-- quote: >-
-    Our booking flow went from a liability to the thing sales demos first.
-    Accessibility was treated as a requirement rather than an add-on, which
-    mattered a great deal for our public sector clients.
-  name: Sofia Marques
-  role: Product Lead
-  company: Meridian Health
-- quote: >-
-    We asked for a website and were told we needed an operations tool. They
-    were right, and they said so before the contract was signed rather than
-    after.
-  name: Jonas Weber
-  role: COO
-  company: Atlas Logistics
+-
+  quote: "I have been blogging for more than five years. In 90 minutes, David created additional (and necessary) pages and created access for readers to get my additional content. David asked simple questions that I haven’t thought about to increase visibility and subscribers. David is competent and cuts straight to what’s necessary and helpful. David is worth the investment to increase visibility and access to content."
+  name: "Sally S"
+  role: "Lifestyle Blogger"
+  company: ""
+-
+  quote: "David was absolutely critical in helping me complete the marketing for my eCommerce business. His strategic approach, creativity, and deep understanding of digital marketing made a significant impact on our brand’s visibility and customer engagement. From refining our messaging to optimizing our campaigns, David went above and beyond to ensure success.Not only is he knowledgeable and result-driven, but he’s also incredibly easy to work with—responsive, detail-oriented, and always bringing fresh ideas to the table. Thanks to his efforts, we saw a noticeable increase in traffic and sales. I highly recommend David to anyone looking for a skilled marketing professional!"
+  name: "Scarlett M"
+  role: "Marketing"
+  company: "VERO"
+-
+  quote: "I hired David to help me set up my website and email marketing for my business, which helps us bring in people for events. He advised me on different website platforms and helped select one that is a great fit for me. Initially, David set up pages and helped me write content. Since then, he's continued to support our business goals. Frequently I receive positive feedback about our business website and email marketing pieces. I couldn't have done it without David's help!"
+  name: "Beth H"
+  role: "Founder"
+  company: "Wild Spirit Mountain Lodge"

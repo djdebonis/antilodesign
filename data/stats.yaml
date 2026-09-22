@@ -1,8 +1,12 @@
-- value: "11 years"
-  label: Building digital products from Berlin
-- value: "64"
-  label: Projects delivered end to end
-- value: "9"
-  label: Senior specialists, no juniors billed as seniors
-- value: "92%"
-  label: Of clients return within eighteen months
+-
+  value: "Denver"
+  label: "Based in Colorado"
+-
+  value: "Web + Print"
+  label: "A consistent brand presence"
+-
+  value: "SEO"
+  label: "Content built around discovery"
+-
+  value: "Local"
+  label: "Connect with nearby customers"

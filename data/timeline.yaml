@@ -1,25 +1,16 @@
-- year: 2014
-  title: Founded as a two-person studio
-  text: >-
-    Marta and Ruben leave a large agency to build software for mid-sized German
-    industrial firms, working out of a shared studio in Kreuzberg.
-- year: 2017
-  title: First platform engagement
-  text: >-
-    Atlas Logistics asks for a dispatcher tool rather than a website. The team
-    grows to five and adds dedicated backend engineering.
-- year: 2020
-  title: Design systems practice
-  text: >-
-    Remote work pushes clients toward shared component libraries. We formalise
-    the design system practice that now underpins most engagements.
-- year: 2023
-  title: Performance and accessibility as contract terms
-  text: >-
-    We start writing Core Web Vitals and WCAG conformance into statements of
-    work, with budgets enforced in continuous integration.
-- year: 2026
-  title: Nine specialists, two studios
-  text: >-
-    Berlin and Lisbon, one delivery team. Still no account managers between you
-    and the people doing the work.
+-
+  year: "Start"
+  title: "Know where you stand"
+  text: "Review the current brand, website, materials, and search presence."
+-
+  year: "Focus"
+  title: "Choose the next useful move"
+  text: "Prioritize the work around your audience, budget, and business goals."
+-
+  year: "Create"
+  title: "Bring the pieces together"
+  text: "Develop a consistent message and design across the channels in scope."
+-
+  year: "Grow"
+  title: "Keep learning"
+  text: "Use feedback and meaningful measures to plan the next round of improvements."

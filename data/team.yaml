@@ -1,24 +1,16 @@
-- name: Marta Vogel
-  role: Founder, strategy
-  image: images/team-1.jpg
-  bio: >-
-    Fifteen years between agencies and in-house product teams. Runs discovery
-    and keeps scope honest.
-- name: Ruben Dias
-  role: Founder, engineering
-  image: images/team-2.jpg
-  bio: >-
-    Backend and infrastructure. Has migrated more legacy platforms than he
-    would like to admit in public.
-- name: Ines Kruger
-  role: Design lead
-  image: images/team-3.jpg
-  bio: >-
-    Interface design and design systems. Treats accessibility as part of
-    craft rather than compliance.
-- name: Daniel Okonjo
-  role: Frontend lead
-  image: images/team-4.jpg
-  bio: >-
-    Performance, component architecture and the unglamorous work of making
-    things fast on a mid-range phone.
+-
+  name: "Team member to be added"
+  role: "Strategy & client collaboration"
+  bio: "Add a real name and a short introduction to the person helping define the direction."
+-
+  name: "Team member to be added"
+  role: "Website & digital design"
+  bio: "Add a real name and a short introduction to the person shaping the online experience."
+-
+  name: "Team member to be added"
+  role: "Brand & print design"
+  bio: "Add a real name and a short introduction to the person connecting the visual details."
+-
+  name: "Team member to be added"
+  role: "SEO & content"
+  bio: "Add a real name and a short introduction to the person supporting search and content."

@@ -1,20 +1,16 @@
-- title: Discovery
-  text: >-
-    Two weeks of interviews, analytics review and a technical audit. You leave
-    with a written problem statement and a prioritised scope.
-  duration: 1–2 weeks
-- title: Design
-  text: >-
-    Wireframes, then a component-level design system. We prototype the three
-    journeys that carry the business case before anything is built.
-  duration: 2–4 weeks
-- title: Build
-  text: >-
-    Two-week increments on a staging URL you can use from day one. Accessibility
-    and performance budgets are checked in CI, not at the end.
-  duration: 6–14 weeks
-- title: Launch and iterate
-  text: >-
-    Migration, monitoring and a four-week hardening window. Then a quarterly
-    review of what the data says to change next.
-  duration: Ongoing
+-
+  title: "Listen"
+  text: "Get familiar with your business, customers, existing materials, and goals."
+  duration: "Discover"
+-
+  title: "Set the direction"
+  text: "Agree on the message, priorities, deliverables, and a practical scope."
+  duration: "Plan"
+-
+  title: "Make it happen"
+  text: "Create the website, campaign, or materials, with space for review and refinement."
+  duration: "Create"
+-
+  title: "Put it to work"
+  text: "Prepare for launch or handoff and identify what to measure and improve next."
+  duration: "Launch & learn"
