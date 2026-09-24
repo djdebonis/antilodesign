@@ -4,8 +4,8 @@ weight: 40
 icon: "compass"
 description: "SEO strategy, on-page optimization, content planning, and technical review for businesses in Denver and beyond."
 eyebrow: "Service"
-lead: "Search visibility starts with understanding what your customers need. We connect that research to useful content, well-organized pages, and a website search engines can understand."
-summary: "SEO strategy, on-page optimization, content planning, and technical review for businesses in Denver and beyond."
+lead: "Your customers may describe what they need differently than you do. We start with those questions, then shape your content and website so the right people have a better chance of finding useful answers."
+summary: "Connect the questions people search for with the value your business offers."
 highlights:
   - "Search intent and keyword research"
   - "On-page content and metadata"
@@ -51,7 +51,7 @@ aliases:
   - "/services/digital-strategy/"
 ---
 
-## Help the right people find the right page.
+## Start with the question your customer is asking.
 
 SEO works best when it is part of the website and content plan from the beginning. Clear service pages, helpful answers, and sensible navigation support both visitors and search discovery.
 

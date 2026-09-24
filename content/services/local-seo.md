@@ -4,8 +4,8 @@ weight: 60
 icon: "bulb"
 description: "Local SEO for Denver and Colorado businesses, including business profile review, local content, and consistent business information."
 eyebrow: "Service"
-lead: "Help nearby customers understand what you offer and where you work. We connect your website, local content, and business listings around accurate, useful information."
-summary: "Local SEO for Denver and Colorado businesses, including business profile review, local content, and consistent business information."
+lead: "For a local business, being found is personal. Someone nearby needs what you do. We help your website and business listings explain your services, location, and next steps clearly and consistently."
+summary: "Help nearby customers find you, understand your services, and plan a visit or inquiry."
 highlights:
   - "Google Business Profile review"
   - "Local service and location content"
@@ -51,7 +51,7 @@ aliases:
   - "/services/consulting/"
 ---
 
-## Be easier to find close to home.
+## Be easier to find in the places you serve.
 
 Local discovery is about more than adding Denver to a page title. Customers need to know whether you provide the service they want, cover their area, and offer a clear way to get in touch.
 

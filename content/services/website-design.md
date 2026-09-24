@@ -4,8 +4,8 @@ weight: 10
 icon: "code"
 description: "Website design for Denver businesses that want to look credible, explain their services, and turn interest into inquiries."
 eyebrow: "Service"
-lead: "Your website should make it easy to understand what you do, why it matters, and how to get started. We bring structure, copy, and design together around that job."
-summary: "Website design for Denver businesses that want to look credible, explain their services, and turn interest into inquiries."
+lead: "A website that feels like the business you’ve worked to build. We help people understand your offer, see what sets it apart, and find their next step, whether you’re launching or finally catching up with your own growth."
+summary: "Give people a clear picture of your business and a reason to take the next step."
 highlights:
   - "Website planning and copy direction"
   - "Responsive page design"
@@ -51,7 +51,7 @@ aliases:
   - "/services/web-development/"
 ---
 
-## A better first impression. A clearer next step.
+## Your business has moved forward. Has your website?
 
 A website is often the place where every other marketing effort lands. An ad, a business card, a search result, or a referral can all lead to the same page. That page needs to carry the conversation forward.
 

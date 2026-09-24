@@ -1,8 +1,23 @@
-# Antilo starter copy: review and editing guide
+# Antilo copy: review and editing guide
 
 The original fictional Northstar business copy has been replaced with starter
 copy for Antilo, a marketing consultancy and design firm based in Denver,
 Colorado. The Pico Corp layout and theme submodule remain intact.
+
+## September 2026 positioning update
+
+The homepage, About, services, Contact, and shared copy now center small
+businesses and startups while welcoming established companies. Health and
+wellness are a focus, without implying unverified industry experience or results.
+The existing Pico Corp layouts and palette are preserved. The homepage audience
+section uses `data/audiences.yaml` and the theme’s existing values component.
+Empty team and testimonial sections are no longer displayed. Their data files
+remain available for approved content later. Project concepts remain explicitly
+illustrative until real case-study copy and assets are supplied.
+
+For each case study, gather the client’s name and permission, the original
+challenge, Antilo’s role, the work delivered, approved images, and any verified
+outcomes. Do not turn illustrative briefs into claimed client results.
 
 ## Start editing here
 
@@ -66,3 +81,36 @@ review dates and authorship before launch.
 - Theme submodule files were not edited.
 - Original Git history and repository files are preserved. No deployment or
   DNS changes are part of this copy rewrite.
+
+## Colorado Sauce Company case study
+
+`content/work/colorado-sauce-company.md` contains the first client case study,
+based on the supplied project account. It is featured first on the homepage and
+in Work. No sales uplift, search ranking, or other performance results are
+claimed. Client imagery can be added when available; no theme photography is
+presented as this client’s work. Other entries remain labeled concepts.
+
+## Contact map and form connection
+
+The Contact page now uses `layouts/_shortcodes/contact-map.html` for the supplied
+Google Maps embed. Its responsive styles live in `assets/css/custom.css`.
+The map loads external Google content; include this in the final privacy notice.
+
+The existing theme form supports a hosted submission endpoint. For Formspree,
+create a form in the business-owned account, configure the notification recipient,
+and copy the endpoint from its Integration panel into
+`params.contactForm.action` in `hugo.toml`. Keep `method = 'POST'`.
+The form remains disabled until a real endpoint is supplied. Then verify delivery
+and the submission confirmation with a test inquiry, update the preview contact
+notice, and review the default budget options before launch.
+
+Alternatively, supply a published Tally form’s embed code from its Share panel.
+Replace the native contact-form partial with the embed so visitors see one form.
+
+## TGB Flooring case study
+
+`content/work/tgb-flooring.md` expands the supplied project account and is featured
+alongside Colorado Sauce Company. The research sample is 117 listings: 72
+identifying hardwood and 45 identifying laminate. No price figures, causal
+home-value claims, traffic gains, or lead outcomes have been added. Client
+images and a live research-resource URL can be added when supplied.

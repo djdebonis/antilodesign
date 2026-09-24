@@ -2,15 +2,15 @@
 title: "About Antilo"
 description: "Meet Antilo, a Denver marketing consultancy and design firm connecting website design, print, digital marketing, and search."
 eyebrow: "About Antilo"
-lead: "We believe a business should be easy to understand, easy to recognize, and easy to find. Antilo brings marketing strategy and design together to help make that happen."
+lead: "The care you put into your business should come through in the way people experience it. That’s the work Antilo is here to do."
 sections:
   -
     type: "about"
-    title: "Good work starts with understanding your business"
+    title: "There’s a business behind every brief."
     image: "images/about-studio.jpg"
     imageAlt: "Placeholder photography for the Antilo studio"
-    lead: "A website, a brochure, and a search listing each tell part of your story."
-    body: "Antilo is a marketing consultancy and design agency based in Denver, Colorado. Our focus spans websites, digital and print marketing, brand direction, SEO, and local SEO.\n\nWe approach those services as connected parts of a business presence. The aim is to make your message clearer and give customers a sensible next step, wherever they meet you."
+    lead: "An idea someone took a chance on. A service people rely on. A better way of doing something."
+    body: "Antilo is a Denver consulting and design business for people who want the way they show up to reflect the quality of what they do. We connect brand strategy, websites, content, print, and search around that purpose.\n\nSmall businesses and startups are central to that work. When time and resources are personal, every decision deserves attention. We also work with established companies whose identity or marketing needs to catch up with the business they’ve become.\n\nHealth and wellness are a particular focus: fields where understandable information and a human voice matter. That interest shapes our approach without limiting who we work with."
     points:
       -
         title: "Clarity first"
@@ -23,30 +23,13 @@ sections:
         text: "Choose priorities that fit your business, then make room to learn and improve."
   -
     type: "values"
-    title: "What guides the work"
+    title: "A few things we care about."
     eyebrow: "Our approach"
-    tone: "muted"
-  -
-    type: "stats"
-    title: "Designed to work together"
-    eyebrow: "Our focus"
-  -
-    type: "team"
-    title: "The people behind the work"
-    eyebrow: "Team details to come"
-    lead: "Role placeholders below will be replaced with real names, bios, and photography."
     tone: "muted"
   -
     type: "timeline"
     title: "Build from a clear starting point"
     eyebrow: "Your marketing roadmap"
-  -
-    type: "testimonials"
-    title: "Client feedback belongs here"
-    eyebrow: "To be added"
-    lead: "We will add approved testimonials as they become available."
-    tone: "muted"
-    limit: 3
   -
     type: "cta"
 ---

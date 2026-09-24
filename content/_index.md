@@ -1,12 +1,12 @@
 ---
 title: "Antilo"
-description: "Antilo is a Denver, Colorado marketing consultancy and design agency specializing in website design, digital and print marketing, SEO, and local SEO."
+description: "Brand strategy, websites, and marketing for small businesses, startups, and companies ready for their next chapter. Based in Denver, with a focus on health and beyond."
 sections:
   -
     type: "hero"
-    title: "Good design. Clear marketing. More ways to be found."
-    eyebrow: "Denver, Colorado | Marketing, Content Creation, & Design Services"
-    lead: "Antilo helps businesses show up with confidence—online, in print, and in local search. We bring website design, marketing strategy, and creative work together around your next step."
+    title: "You’ve built something worth believing in."
+    eyebrow: "Antilo · Strategy, design & marketing"
+    lead: "Let’s help people see it. Antilo turns what makes your business valuable into a brand, website, and marketing that express it. For small businesses, startups, and established companies ready to grow into what’s next."
     image: "images/hero.jpg"
     imageAlt: "Placeholder photography for the Antilo homepage"
     primary:
@@ -15,81 +15,77 @@ sections:
     secondary:
       label: "Explore our services"
       url: "/services/"
-    note: "Based in Denver, Colorado. Built around your business."
+    note: "Denver roots. A particular interest in health. An open door to good businesses everywhere."
     facts:
       -
-        value: "Web"
-        label: "Design with a purpose"
+        value: "Clarify"
+        label: "What makes you matter"
       -
-        value: "Print"
-        label: "A brand you can hold"
+        value: "Create"
+        label: "A presence that feels like you"
       -
-        value: "Search"
-        label: "Help customers find you"
+        value: "Connect"
+        label: "With people who need you"
   -
     type: "logos"
-    title: "Who we design for"
+    title: "Built for people building something"
     eyebrow: "Your kind of business"
   -
     type: "services"
-    title: "Bring your marketing together"
+    title: "Make the quality of your business visible."
     eyebrow: "Our services"
-    lead: "From the first search to the first conversation, make every touchpoint feel like the same business."
+    lead: "Maybe your website hasn’t kept up. Maybe your offer takes too long to explain. Maybe you’re starting from a blank page. We connect strategy, words, and design around the problem that matters most."
     tone: "muted"
     link:
       label: "Explore all services"
       url: "/services/"
   -
     type: "work"
-    title: "What the possibilities look like"
-    eyebrow: "Illustrative project briefs"
-    lead: "These sample scenarios show how website design, search, and print can work together. They are concepts, not completed client projects."
+    title: "Different businesses. Thoughtful work behind each one."
+    eyebrow: "Selected work"
+    lead: "Explore a brand and ecommerce transition for Colorado Sauce Company, and local storytelling and original research for TGB Flooring. Additional illustrative briefs show other ways we approach the work."
     limit: 3
     feature: true
     link:
-      label: "Explore the concepts"
+      label: "Explore our work"
       url: "/work/"
   -
     type: "about"
-    title: "A Denver perspective. A practical plan."
+    title: "Your ambition deserves thoughtful company."
     eyebrow: "Meet Antilo"
-    lead: "We are a marketing consultancy and design firm in Denver, Colorado. We help businesses clarify their message and bring it to life across websites, search, and everyday marketing."
+    lead: "Running a business asks you to care about a hundred things at once. Antilo brings attention to the way people see, understand, and choose yours. We start by listening to what you’re building, then help you give it a stronger presence."
     tone: "muted"
     image: "images/about-studio.jpg"
     imageAlt: "Placeholder photography for the Antilo about section"
     points:
       -
-        title: "Start with the business"
-        text: "Understand your customers, your offer, and what needs to happen next."
+        title: "Find the real story"
+        text: "The details you take for granted may be exactly what your customers need to hear. We look for those details."
       -
-        title: "Connect the details"
-        text: "Keep your website, print pieces, and campaigns working from the same direction."
+        title: "Respect the stage you’re in"
+        text: "A first launch and a long-established business need different things. The scope should reflect that."
       -
-        title: "Make the work useful"
-        text: "Create clear, considered materials with a practical role in your marketing."
+        title: "Leave you with something useful"
+        text: "A clearer message. A website you can point people to with pride. Materials that help you have the next conversation."
     link:
       label: "Get to know Antilo"
       url: "/about/"
   -
-    type: "stats"
-    title: "A connected approach"
-    eyebrow: "Our focus"
+    type: "values"
+    title: "Health is close to our heart. Our curiosity goes further."
+    eyebrow: "Who we work with"
+    lead: "We’re drawn to businesses that make life better, including those in health and wellness. We bring the same care to a neighborhood business, a new venture, or an established company finding its next direction."
+    data: "audiences"
   -
     type: "process"
-    title: "From a good conversation to work you can use"
+    title: "Good questions before good design."
     eyebrow: "The process"
     tone: "muted"
   -
-    type: "testimonials"
-    title: "Room for your client stories"
-    eyebrow: "Testimonials coming soon"
-    lead: "This section is reserved for real feedback, shared with permission."
-    limit: 3
-  -
     type: "pricing"
-    title: "Start where your business needs support"
+    title: "A place to start. Room to grow."
     eyebrow: "Ways to work together"
-    lead: "A defined project, a clearer plan, or ongoing creative support. We shape the scope around your priorities."
+    lead: "You don’t need to arrive with a perfect brief. Bring the ambition, the sticking point, or the thing you’ve been meaning to fix. We’ll work out the right shape for it."
     tone: "muted"
     note: "Scope, schedule, and pricing are confirmed in a proposal. Advertising, printing, and other outside costs are quoted separately."
   -

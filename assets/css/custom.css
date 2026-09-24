@@ -127,3 +127,28 @@
   --pico-primary-focus: var(--pc-focus-color);
   --pico-primary-inverse: var(--pc-on-accent);
 }
+
+/* 6. Header logo: the supplied artwork is white on transparent.
+   A forest tile gives it contrast in both light and dark mode. */
+.site-header .brand__logo {
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  padding: 0.15rem;
+  border-radius: var(--pc-radius-sm);
+  background-color: #34594C;
+}
+
+/* Contact map: keep the supplied embed within the page on small screens. */
+.contact-map {
+  margin-block: 2rem;
+}
+
+.contact-map iframe {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: clamp(18rem, 50vw, 28.125rem);
+  border: 0;
+  border-radius: var(--pc-radius-sm);
+}

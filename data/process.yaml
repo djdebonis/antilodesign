@@ -1,16 +1,12 @@
--
-  title: "Listen"
-  text: "Get familiar with your business, customers, existing materials, and goals."
-  duration: "Discover"
--
-  title: "Set the direction"
-  text: "Agree on the message, priorities, deliverables, and a practical scope."
-  duration: "Plan"
--
-  title: "Make it happen"
-  text: "Create the website, campaign, or materials, with space for review and refinement."
-  duration: "Create"
--
-  title: "Put it to work"
-  text: "Prepare for launch or handoff and identify what to measure and improve next."
-  duration: "Launch & learn"
+- title: "Get to the heart of it"
+  text: "Tell us what you’re building, what customers value, and where things feel stuck. We’ll look at the work you already have and ask the questions behind the brief."
+  duration: "01 · Listen"
+- title: "Choose what matters now"
+  text: "Set the message, priorities, and scope together. You should know what we’re making, why it matters, and what it will take."
+  duration: "02 · Focus"
+- title: "Give the idea its form"
+  text: "Bring words and design together. Review real work, talk through the choices, and refine it with your knowledge of the business."
+  duration: "03 · Create"
+- title: "Make it part of the business"
+  text: "Prepare the launch and handoff, then agree on what to watch, learn, and improve. The finished work needs a life beyond the presentation."
+  duration: "04 · Put it to work"

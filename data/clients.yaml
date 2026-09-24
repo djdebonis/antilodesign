@@ -1,12 +1,6 @@
--
-  name: "Local businesses"
--
-  name: "Professional services"
--
-  name: "Home services"
--
-  name: "Retail & hospitality"
--
-  name: "Community organizations"
--
-  name: "Growing brands"
+- name: "Small businesses"
+- name: "Startups"
+- name: "Health & wellness"
+- name: "Professional services"
+- name: "Local independents"
+- name: "Established companies"

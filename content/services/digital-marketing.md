@@ -4,8 +4,8 @@ weight: 20
 icon: "chart"
 description: "Digital marketing strategy, campaign creative, email, and landing pages for Denver businesses and growing brands."
 eyebrow: "Service"
-lead: "Connect the message people see with the page they visit and the action you want them to take. We help shape campaigns that feel consistent from first impression to follow-up."
-summary: "Digital marketing strategy, campaign creative, email, and landing pages for Denver businesses and growing brands."
+lead: "A launch to introduce. A service people don’t know you offer. A conversation worth continuing. We shape content and campaigns around something you have to say and the people who need to hear it."
+summary: "Turn an offer, a launch, or an idea into a campaign with a clear purpose."
 highlights:
   - "Campaign strategy and creative"
   - "Email and social content"
@@ -51,7 +51,7 @@ aliases:
   - "/services/software-development/"
 ---
 
-## Give your campaigns a clear destination.
+## Have something worth saying. Give it somewhere to go.
 
 More activity does not automatically mean better marketing. A useful campaign has a specific audience, a relevant offer, and a next step that makes sense.
 

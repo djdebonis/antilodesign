@@ -118,7 +118,7 @@ capitalizeListTitles = false
   [menu.footer.params]
     group = 'Company'
 [[menu.footer]]
-  name = 'Project concepts'
+  name = 'Work & case studies'
   pageRef = '/work'
   weight = 60
   [menu.footer.params]
@@ -154,7 +154,7 @@ capitalizeListTitles = false
 # header, so a key written below [params.address] becomes params.address.<key>
 # and the theme never sees it.
 [params]
-  description = 'Antilo is a Denver, Colorado marketing consultancy and design agency for website design, digital and print marketing, SEO, and local SEO.'
+  description = 'Brand strategy, websites, and marketing for small businesses, startups, and established companies. Denver-based, with a focus on health and beyond.'
 
   # Company details. Nothing company-specific is hardcoded in the templates.
   companyName = 'Antilo'
@@ -176,8 +176,8 @@ capitalizeListTitles = false
   # best serif already installed on the reader's system, which is what gives
   # the theme its editorial feel at zero network cost. 'sans' opts out.
   headingFont = 'serif'
-  logo = ''            # path under assets/, e.g. 'images/logo.svg'. Empty = wordmark.
-  logoDark = ''
+  logo = '/antelope_logo_nobg.png'            # path under assets/, e.g. 'images/logo.svg'. Empty = wordmark.
+  logoDark = 'antelope_logo_nobg.png'
   favicon = '/antelope_logo_nobg.svg'
   appleTouchIcon = '/antelope_logo_nobg.png'
   ogImage = ''      # Add an Antilo share image before launch.
@@ -201,23 +201,23 @@ capitalizeListTitles = false
 
   [params.announcement]
     enabled = true
-    text = 'Website design, marketing, and local visibility. Based in Denver.'
+    text = 'For the business you’re building. And the one you’re becoming.'
     linkLabel = 'Start a project'
     linkURL = '/contact/'
 
   # Site-wide fallback for the closing call to action.
   [params.cta]
     eyebrow = 'Next step'
-    title = 'What is next for your business?'
-    text = 'A new website, a clearer message, or a stronger local presence. Tell us what you have in mind, and let’s find a useful place to start.'
+    title = 'Let’s bring your next chapter into focus.'
+    text = 'You know what your business could become. Bring us the idea, the challenge, or the ambition. We’ll help you find the words, design, and direction to move it forward.'
     primaryLabel = 'Start a conversation'
     primaryURL = '/contact/'
     secondaryLabel = 'Explore our services'
     secondaryURL = '/services/'
 
   [params.footer]
-    text = 'Antilo is a Denver, Colorado design and marketing agency. Websites, digital and print marketing, SEO, and local SEO—with a clear purpose.'
-    note = 'Working preview: project concepts and photography are placeholders.'
+    text = 'Thoughtful strategy, design, and marketing for businesses with something to give. Based in Denver. Invested in what you’re building.'
+    note = 'Working preview: illustrative briefs are labeled; theme photography remains placeholder imagery.'
 
   [params.seo]
     titleSeparator = '·'

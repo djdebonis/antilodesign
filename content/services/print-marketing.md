@@ -4,8 +4,8 @@ weight: 30
 icon: "frame"
 description: "Print design for brochures, direct mail, business cards, signage, and sales materials with a consistent brand presence."
 eyebrow: "Service"
-lead: "Put the same care into the piece someone holds as the website they visit. We design print materials that make your message clear and give people a reason to keep reading."
-summary: "Print design for brochures, direct mail, business cards, signage, and sales materials with a consistent brand presence."
+lead: "Some moments call for something people can hold. A useful guide, a thoughtful brochure, a sign that welcomes someone in. We design printed pieces with attention to the moment they’ll be used."
+summary: "Make the in-person experience feel as considered as the one online."
 highlights:
   - "Brochures and sales collateral"
   - "Direct mail and promotional pieces"
@@ -51,7 +51,7 @@ aliases:
   - "/services/ui-ux-design/"
 ---
 
-## Make your brand tangible.
+## Give people something worth taking with them.
 
 A well-designed brochure can support a sales conversation. A direct mail piece can introduce a local offer. A sign can help someone recognize the business they came to find.
 

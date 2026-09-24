@@ -4,8 +4,8 @@ weight: 50
 icon: "spark"
 description: "Brand positioning, visual identity, and practical marketing consulting for Denver businesses."
 eyebrow: "Service"
-lead: "Get clear about who you serve, what you offer, and how to communicate it. Then carry that direction into your identity, website, and marketing materials."
-summary: "Brand positioning, visual identity, and practical marketing consulting for Denver businesses."
+lead: "You may know exactly why your business matters and still struggle to put it into words. We help find that thread, then give it a voice and visual identity that feel true to you."
+summary: "Find the words, identity, and direction that make your business recognizable."
 highlights:
   - "Positioning and messaging"
   - "Visual identity and brand guidance"
@@ -49,7 +49,7 @@ deliverables:
   - "Brand guidelines and marketing priorities"
 ---
 
-## Give your business a message people can recognize.
+## The best starting point is what’s already true.
 
 A brand lives in more places than a logo. It is in the way your website explains a service, the proposal you send, and the material a customer takes home.
 
