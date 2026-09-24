@@ -66,6 +66,10 @@ capitalizeListTitles = false
   pageRef = '/about'
   weight = 30
 [[menu.main]]
+  name = 'Team'
+  pageRef = '/team'
+  weight = 35
+[[menu.main]]
   name = 'Journal'
   pageRef = '/blog'
   weight = 40
@@ -118,6 +122,12 @@ capitalizeListTitles = false
   [menu.footer.params]
     group = 'Company'
 [[menu.footer]]
+  name = 'Meet David'
+  pageRef = '/team'
+  weight = 55
+  [menu.footer.params]
+    group = 'Company'
+[[menu.footer]]
   name = 'Work & case studies'
   pageRef = '/work'
   weight = 60
@@ -154,10 +164,11 @@ capitalizeListTitles = false
 # header, so a key written below [params.address] becomes params.address.<key>
 # and the theme never sees it.
 [params]
-  description = 'Brand strategy, websites, and marketing for small businesses, startups, and established companies. Denver-based, with a focus on health and beyond.'
+  description = 'Antilo Consulting and Antilo Design: Denver-based strategy, websites, and marketing led by David DeBonis, Founder and Lead Consultant.'
 
   # Company details. Nothing company-specific is hardcoded in the templates.
   companyName = 'Antilo'
+  alternateNames = ['Antilo Consulting', 'Antilo Design', 'Antilo Consulting and Design']
   legalName = '' # Add the confirmed legal business name before launch.
   tagline = 'Denver design & marketing'
   # Add founded when the actual year is confirmed.
@@ -217,7 +228,7 @@ capitalizeListTitles = false
 
   [params.footer]
     text = 'Thoughtful strategy, design, and marketing for businesses with something to give. Based in Denver. Invested in what you’re building.'
-    note = 'Working preview: illustrative briefs are labeled; theme photography remains placeholder imagery.'
+    note = ''
 
   [params.seo]
     titleSeparator = '·'

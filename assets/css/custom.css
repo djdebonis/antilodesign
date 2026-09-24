@@ -152,3 +152,45 @@
   border: 0;
   border-radius: var(--pc-radius-sm);
 }
+
+/* Founder profile: preserve the portrait's full composition and theme palette. */
+.founder-profile {
+  display: grid;
+  gap: clamp(2rem, 5vw, 5rem);
+  align-items: start;
+}
+
+.founder-profile__portrait {
+  margin: 0;
+  width: 100%;
+  max-width: 25rem;
+}
+
+.founder-profile__portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--pc-radius);
+}
+
+.founder-profile__portrait figcaption {
+  padding-block: 1.25rem;
+}
+
+.founder-profile__portrait h2 {
+  margin-bottom: 0.25rem;
+}
+
+.founder-profile__portrait p {
+  color: var(--pc-text-muted);
+}
+
+.founder-profile__bio {
+  min-width: 0;
+}
+
+@media (min-width: 48rem) {
+  .founder-profile {
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  }
+}

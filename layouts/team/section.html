@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ partial "page-header.html" . }}
+  {{ $member := index hugo.Data.team 0 }}
+  <section class="section">
+    <div class="container founder-profile">
+      <figure class="founder-profile__portrait">
+        {{ partial "utils/image.html" (dict
+          "page" .
+          "path" $member.image
+          "alt" $member.imageAlt
+          "widths" (slice 480 768 1200)
+          "sizes" "(min-width: 62rem) 400px, (min-width: 48rem) 38vw, 100vw"
+          "priority" true) }}
+        <figcaption>
+          <h2>{{ $member.name }}</h2>
+          <p>{{ $member.role }}</p>
+        </figcaption>
+      </figure>
+      <div class="prose founder-profile__bio">{{ .Content }}</div>
+    </div>
+  </section>
+  {{ partial "cta.html" . }}
+{{ end }}

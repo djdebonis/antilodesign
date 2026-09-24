@@ -1,6 +1,6 @@
 ---
 title: "Antilo"
-description: "Brand strategy, websites, and marketing for small businesses, startups, and companies ready for their next chapter. Based in Denver, with a focus on health and beyond."
+description: "Antilo Consulting and Antilo Design help businesses grow through strategy, websites, and marketing. Led by David DeBonis in Denver, Colorado."
 sections:
   -
     type: "hero"

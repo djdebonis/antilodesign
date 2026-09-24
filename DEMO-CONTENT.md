@@ -114,3 +114,12 @@ alongside Colorado Sauce Company. The research sample is 117 listings: 72
 identifying hardwood and 45 identifying laminate. No price figures, causal
 home-value claims, traffic gains, or lead outcomes have been added. Client
 images and a live research-resource URL can be added when supplied.
+
+## Team page
+
+The `/team/` page introduces David DeBonis, Founder and Lead Consultant, as
+Antilo’s sole team member. The bio is based on the supplied project histories.
+`data/team.yaml` now contains only David. The supplied portrait is stored as
+`assets/images/david-debonis-founder-lead-consultant.jpg`; Hugo generates
+480, 768, and 1200 pixel responsive versions plus WebP variants. The page
+includes descriptive alt text and ProfilePage/Person structured data.

@@ -31,5 +31,10 @@ sections:
     title: "Build from a clear starting point"
     eyebrow: "Your marketing roadmap"
   -
+    type: "content"
+    title: "Meet the person behind the work"
+  -
     type: "cta"
 ---
+
+Antilo brings together Antilo Consulting and Antilo Design under one approach to strategy, design, and marketing. The business is led by David DeBonis, Founder and Lead Consultant. [Meet David and learn about his approach](/team/).

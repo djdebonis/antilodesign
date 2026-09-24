@@ -1,0 +1,117 @@
+{{- /* Structured data, kept to what search engines actually use for a
+       corporate site: the organisation, article metadata and breadcrumbs. */ -}}
+
+{{- $orgID := printf "%s#organization" site.Home.Permalink -}}
+{{- $nodes := slice -}}
+{{- $team := site.GetPage "/team" -}}
+{{- $founder := index hugo.Data.team 0 -}}
+{{- $personID := printf "%s#david-debonis" $team.Permalink -}}
+{{- $websiteID := printf "%s#website" site.Home.Permalink -}}
+
+{{- /* ---- Organization ------------------------------------------------- */ -}}
+{{- $org := dict
+  "@type" (site.Params.seo.organizationType | default "Organization")
+  "@id" $orgID
+  "name" (site.Params.companyName | default site.Title)
+  "url" site.Home.Permalink
+-}}
+{{- $org = merge $org (dict "alternateName" site.Params.alternateNames "founder" (dict "@id" $personID)) -}}
+{{- with partial "utils/resolve-image.html" (dict "path" site.Params.logo) -}}
+  {{- $org = merge $org (dict "logo" .Permalink) -}}
+{{- end -}}
+{{- with site.Params.legalName }}{{ $org = merge $org (dict "legalName" .) }}{{ end -}}
+{{- with site.Params.description }}{{ $org = merge $org (dict "description" .) }}{{ end -}}
+{{- with site.Params.email }}{{ $org = merge $org (dict "email" .) }}{{ end -}}
+{{- with site.Params.phone }}{{ $org = merge $org (dict "telephone" .) }}{{ end -}}
+{{- with site.Params.founded }}{{ $org = merge $org (dict "foundingDate" (printf "%v" .)) }}{{ end -}}
+
+{{- with site.Params.address -}}
+  {{- $org = merge $org (dict "address" (dict
+    "@type" "PostalAddress"
+    "streetAddress" (.street | default "")
+    "postalCode" (.postalCode | default "")
+    "addressLocality" (.city | default "")
+    "addressRegion" (.region | default "")
+    "addressCountry" (.countryCode | default .country | default "")
+  )) -}}
+{{- end -}}
+
+{{- $sameAs := slice -}}
+{{- range site.Params.social -}}
+  {{- if and .url (hasPrefix .url "http") -}}
+    {{- $sameAs = $sameAs | append .url -}}
+  {{- end -}}
+{{- end -}}
+{{- with $sameAs }}{{ $org = merge $org (dict "sameAs" .) }}{{ end -}}
+
+{{- with partial "utils/resolve-image.html" (dict "path" site.Params.ogImage) -}}
+  {{- $org = merge $org (dict "image" .Permalink) -}}
+{{- end -}}
+
+{{- $nodes = $nodes | append $org -}}
+
+{{- $portrait := resources.Get $founder.image -}}
+{{- $profileImage := $portrait.Resize "1200x webp q80" -}}
+{{- $person := dict "@type" "Person" "@id" $personID
+  "name" $founder.name "jobTitle" $founder.role "description" $founder.bio
+  "url" $team.Permalink "image" $profileImage.Permalink
+  "worksFor" (dict "@id" $orgID) -}}
+{{- $nodes = $nodes | append $person -}}
+{{- $nodes = $nodes | append (dict "@type" "WebSite" "@id" $websiteID
+  "name" site.Params.companyName "alternateName" site.Params.alternateNames
+  "url" site.Home.Permalink "publisher" (dict "@id" $orgID)) -}}
+{{- if eq .RelPermalink $team.RelPermalink -}}
+  {{- $nodes = $nodes | append (dict "@type" "ProfilePage"
+    "@id" (printf "%s#webpage" .Permalink) "url" .Permalink
+    "name" .Title "mainEntity" (dict "@id" $personID)
+    "isPartOf" (dict "@id" $websiteID)) -}}
+{{- end -}}
+
+{{- /* ---- Article ------------------------------------------------------- */ -}}
+{{- if and .IsPage (eq .Type "blog") -}}
+  {{- $article := dict
+    "@type" "Article"
+    "headline" (.Title | plainify)
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+    "url" .Permalink
+    "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+    "publisher" (dict "@id" $orgID)
+    "wordCount" .WordCount
+  -}}
+  {{- with .Description }}{{ $article = merge $article (dict "description" (. | plainify)) }}{{ end -}}
+  {{- with .Params.author -}}
+    {{- $article = merge $article (dict "author" (dict "@type" "Person" "name" .)) -}}
+  {{- else -}}
+    {{- $article = merge $article (dict "author" (dict "@id" $orgID)) -}}
+  {{- end -}}
+  {{- with partial "utils/resolve-image.html" (dict "page" . "path" (or .Params.image site.Params.ogImage)) -}}
+    {{- $article = merge $article (dict "image" .Permalink) -}}
+  {{- end -}}
+  {{- with .GetTerms "categories" -}}
+    {{- $article = merge $article (dict "articleSection" (index . 0).LinkTitle) -}}
+  {{- end -}}
+  {{- $keywords := slice -}}
+  {{- range .GetTerms "tags" }}{{ $keywords = $keywords | append .LinkTitle }}{{ end -}}
+  {{- with $keywords }}{{ $article = merge $article (dict "keywords" (delimit . ", ")) }}{{ end -}}
+  {{- $nodes = $nodes | append $article -}}
+{{- end -}}
+
+{{- /* ---- BreadcrumbList ------------------------------------------------ */ -}}
+{{- $trail := partial "utils/breadcrumb-trail.html" . -}}
+{{- if gt (len $trail) 1 -}}
+  {{- $items := slice -}}
+  {{- range $i, $crumb := $trail -}}
+    {{- $items = $items | append (dict
+      "@type" "ListItem"
+      "position" (add $i 1)
+      "name" ($crumb.title | plainify)
+      "item" $crumb.url
+    ) -}}
+  {{- end -}}
+  {{- $nodes = $nodes | append (dict "@type" "BreadcrumbList" "itemListElement" $items) -}}
+{{- end -}}
+
+<script type="application/ld+json">
+  {{ dict "@context" "https://schema.org" "@graph" $nodes | jsonify (dict "indent" "  ") | safeJS }}
+</script>

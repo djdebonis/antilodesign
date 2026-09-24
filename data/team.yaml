@@ -1,16 +1,5 @@
--
-  name: "Team member to be added"
-  role: "Strategy & client collaboration"
-  bio: "Add a real name and a short introduction to the person helping define the direction."
--
-  name: "Team member to be added"
-  role: "Website & digital design"
-  bio: "Add a real name and a short introduction to the person shaping the online experience."
--
-  name: "Team member to be added"
-  role: "Brand & print design"
-  bio: "Add a real name and a short introduction to the person connecting the visual details."
--
-  name: "Team member to be added"
-  role: "SEO & content"
-  bio: "Add a real name and a short introduction to the person supporting search and content."
+- name: "David DeBonis"
+  role: "Founder and Lead Consultant"
+  image: "images/david-debonis-founder-lead-consultant.jpg"
+  imageAlt: "David DeBonis, Founder and Lead Consultant at Antilo"
+  bio: "David brings strategy, writing, design, and website development together to help businesses express what makes them valuable. His work spans brand transitions, ecommerce, local search, and original research."
