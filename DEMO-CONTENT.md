@@ -123,3 +123,12 @@ Antilo’s sole team member. The bio is based on the supplied project histories.
 `assets/images/david-debonis-founder-lead-consultant.jpg`; Hugo generates
 480, 768, and 1200 pixel responsive versions plus WebP variants. The page
 includes descriptive alt text and ProfilePage/Person structured data.
+
+## Restored client testimonials
+
+The homepage and About page now display the real quotes from Sally S
+(Lifestyle Blog), Scarlett M (VERO), and Beth H (Wild Spirit Mountain Lodge).
+These replace the earlier placeholder status described above. Their wording
+and attribution follow the supplied testimonials, with a missing sentence
+space corrected. The section override handles company-only attribution
+without a leading comma.

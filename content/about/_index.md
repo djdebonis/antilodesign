@@ -10,17 +10,17 @@ sections:
     image: "images/about-studio.jpg"
     imageAlt: "Placeholder photography for the Antilo studio"
     lead: "An idea someone took a chance on. A service people rely on. A better way of doing something."
-    body: "Antilo is a Denver consulting and design business for people who want the way they show up to reflect the quality of what they do. We connect brand strategy, websites, content, print, and search around that purpose.\n\nSmall businesses and startups are central to that work. When time and resources are personal, every decision deserves attention. We also work with established companies whose identity or marketing needs to catch up with the business they’ve become.\n\nHealth and wellness are a particular focus: fields where understandable information and a human voice matter. That interest shapes our approach without limiting who we work with."
+    body: "Antilo is a Denver consulting and design business for people who want the way they show up to reflect the quality of what they do. We connect brand strategy, websites, content, print, and search around that purpose.\n\nSmall businesses and startups are central to that work. The marketing systems of a large brand can ask for more budget, time, and people than a smaller business can give. We shape the work around your resources, using your story to establish a clear point of difference and research to guide the decisions. We also work with established companies whose identity or marketing needs to catch up with the business they’ve become.\n\nHealth and wellness are a particular focus: fields where understandable information and a human voice matter. That interest shapes our approach without limiting who we work with."
     points:
       -
-        title: "Clarity first"
-        text: "Start with what you do, who it helps, and why a customer should care."
+        title: "Find the story that matters"
+        text: "Connect what you do with the people it helps, the problem it solves, and the details that make it yours."
       -
-        title: "Design with a job to do"
-        text: "Make visual decisions that support the message and the way people use the work."
+        title: "Give the story a useful form"
+        text: "Carry that message through website design, digital marketing, and content people can understand and act on."
       -
-        title: "A plan you can build on"
-        text: "Choose priorities that fit your business, then make room to learn and improve."
+        title: "Let evidence guide the next step"
+        text: "Use customer questions, search research, and available performance data to choose priorities and refine the work."
   -
     type: "values"
     title: "A few things we care about."
@@ -33,6 +33,12 @@ sections:
   -
     type: "content"
     title: "Meet the person behind the work"
+  -
+    type: "testimonials"
+    title: "In our clients’ words"
+    eyebrow: "Client experiences"
+    limit: 3
+    tone: "muted"
   -
     type: "cta"
 ---

@@ -5,8 +5,8 @@ sections:
   -
     type: "hero"
     title: "You’ve built something worth believing in."
-    eyebrow: "Antilo · Strategy, design & marketing"
-    lead: "Let’s help people see it. Antilo turns what makes your business valuable into a brand, website, and marketing that express it. For small businesses, startups, and established companies ready to grow into what’s next."
+    eyebrow: "Story-led marketing for small businesses & startups"
+    lead: "Let’s give people a reason to remember it. Antilo brings your story and the evidence behind it into website design, digital marketing, and content creation. Built around the ambitions and resources of small businesses and startups, with room for established companies finding their next chapter."
     image: "images/hero.jpg"
     imageAlt: "Placeholder photography for the Antilo homepage"
     primary:
@@ -30,6 +30,10 @@ sections:
     type: "logos"
     title: "Built for people building something"
     eyebrow: "Your kind of business"
+  -
+    type: "content"
+    title: "Your brand needs a story people can connect with."
+    eyebrow: "A different starting point"
   -
     type: "services"
     title: "Make the quality of your business visible."
@@ -82,6 +86,11 @@ sections:
     eyebrow: "The process"
     tone: "muted"
   -
+    type: "testimonials"
+    title: "In our clients’ words"
+    eyebrow: "Client experiences"
+    limit: 3
+  -
     type: "pricing"
     title: "A place to start. Room to grow."
     eyebrow: "Ways to work together"
@@ -96,3 +105,11 @@ sections:
   -
     type: "cta"
 ---
+
+The systems that work for big, established brands don’t always translate to small businesses and startups. Larger companies can draw on bigger budgets, wider recognition, and more people. Your marketing needs to work with the resources you actually have.
+
+That starts with what makes your business worth paying attention to: the problem you understand, the care you bring, and the reason someone would choose you. A clear story gives those details a place in people’s minds and something to remember you by.
+
+With AI making content easier to produce and social feeds full of competing messages, publishing more can become a job of its own. We focus on giving you something meaningful to say, then connecting it across your website, content, and campaigns.
+
+Our approach is **story-driven and data-backed**. Customer questions, search research, and the performance information available help shape the direction. Your story gives the work its voice; evidence helps us decide where to focus and what to improve.
