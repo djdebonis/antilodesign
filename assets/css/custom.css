@@ -194,3 +194,29 @@
     grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
   }
 }
+
+/* Hero pillars span both the introduction and image columns. */
+.hero__facts--full {
+  grid-column: 1 / -1;
+  grid-template-columns: 1fr;
+  gap: var(--pc-space-lg);
+  margin-block: 0;
+  padding-block-start: var(--pc-space-lg);
+  width: 100%;
+  min-width: 0;
+}
+
+.hero__facts--full .stat {
+  min-width: 0;
+}
+
+.hero__facts--full .stat__value {
+  font-size: clamp(1.75rem, 3.5vw, 2.75rem);
+  line-height: 1.15;
+}
+
+@media (min-width: 48rem) {
+  .hero__facts--full {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}

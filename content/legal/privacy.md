@@ -14,4 +14,4 @@ This page is a placeholder, not a completed privacy policy. The final notice nee
 
 Confirm what information is collected, why it is used, who processes it, how long it is retained, and how someone can contact Antilo about it. Include the choices available to visitors based on the final setup.
 
-The contact form endpoint and analytics settings are currently unconfigured in the site source. Update this notice to reflect the deployed website before collecting inquiries.
+The contact form sends the information you enter to Formspree so Antilo can receive and respond to your inquiry. The form asks for your name, email address, message, and consent, with optional business and budget details. Analytics settings remain unconfigured. The contact page also embeds Google Maps. Complete this notice with the remaining business and data-handling details before launch.

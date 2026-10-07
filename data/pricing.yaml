@@ -1,11 +1,11 @@
 -
-  name: "Marketing direction"
+  name: "Coaching & direction"
   price: "Let’s scope it"
-  unit: "Consulting & planning"
+  unit: "Coaching & consulting"
   text: "Make sense of your options and decide what deserves attention first."
   features:
-    - "Brand and marketing review"
-    - "Audience and message priorities"
+    - "Values, vision, and business priorities"
+    - "Idea, audience, and message exploration"
     - "Recommended next steps"
   cta:
     label: "Talk about your needs"
@@ -25,12 +25,12 @@
   featured: true
   badge: "A focused starting point"
 -
-  name: "Ongoing marketing support"
+  name: "Ongoing growth support"
   price: "Let’s scope it"
   unit: "Recurring scope"
-  text: "Keep your creative work, content, and search priorities moving."
+  text: "Build and implement sustainable systems alongside ongoing coaching, marketing, and creative support."
   features:
-    - "Prioritized marketing tasks"
+    - "Growth priorities and repeatable processes"
     - "Creative and content support"
     - "SEO or local SEO as scoped"
   cta:

@@ -2,7 +2,7 @@
 title: "About Antilo"
 description: "Meet Antilo, a Denver marketing consultancy and design firm connecting website design, print, digital marketing, and search."
 eyebrow: "About Antilo"
-lead: "The care you put into your business should come through in the way people experience it. That’s the work Antilo is here to do."
+lead: "A business can begin with a question, an ambition, or a problem you want to solve. Antilo helps you turn that starting point into direction, action, and room to grow."
 sections:
   -
     type: "about"
@@ -10,7 +10,7 @@ sections:
     image: "images/about-studio.jpg"
     imageAlt: "Placeholder photography for the Antilo studio"
     lead: "An idea someone took a chance on. A service people rely on. A better way of doing something."
-    body: "Antilo is a Denver consulting and design business for people who want the way they show up to reflect the quality of what they do. We connect brand strategy, websites, content, print, and search around that purpose.\n\nSmall businesses and startups are central to that work. The marketing systems of a large brand can ask for more budget, time, and people than a smaller business can give. We shape the work around your resources, using your story to establish a clear point of difference and research to guide the decisions. We also work with established companies whose identity or marketing needs to catch up with the business they’ve become.\n\nHealth and wellness are a particular focus: fields where understandable information and a human voice matter. That interest shapes our approach without limiting who we work with."
+    body: "Antilo is a Denver coaching, consulting, and design business helping aspiring entrepreneurs, entrepreneurs, small businesses, and startups design, build, grow, and scale. Our work connects values-driven coaching, marketing and communications consulting, website and media design and development, and sustainable systems to support business growth.\n\nYou can start with us before you have a business name, a website, or your first customer. Small businesses and startups are central to our work, from exploring an idea to building a business that can grow. The marketing systems of a large brand can ask for more budget, time, and people than a smaller business can give. We shape the work around your resources, using your story to establish a clear point of difference and research to guide the decisions. We also work with established companies whose identity or marketing needs to catch up with the business they’ve become.\n\nHealth and wellness are a particular focus: fields where understandable information and a human voice matter. That interest shapes our approach without limiting who we work with."
     points:
       -
         title: "Find the story that matters"

@@ -1,5 +1,7 @@
 ---
 title: "Colorado Sauce Company"
+image: "images/colorado_sauce_company_featured1.jpeg"
+imageAlt: "Colorado Sauce Company’s redesigned labels and storefront"
 linkTitle: "A new chapter, rooted in Yampa Valley"
 client: "Colorado Sauce Company"
 industry: "Food & beverage"
@@ -26,7 +28,7 @@ services:
 
 ## From Yampa Valley to Colorado Sauce Company
 
-A new name opened up a bigger story for the business. As Yampa Valley Sauce Company evolved into Colorado Sauce Company, the task was to explain that broader identity while keeping its origins close. The Yampa Valley name still had a place: as a heritage line within the wider Colorado Sauce Company brand.
+A new name opened up a bigger story for the business. As Yampa Valley Sauce Company evolved into [Colorado Sauce Company](https://coloradosaucecompany.com), the task was to explain that broader identity while keeping its origins close. The Yampa Valley name still had a place: as a heritage line within the wider Colorado Sauce Company brand.
 
 We developed website copy that made that relationship understandable, connecting the two names and giving the heritage line a clear role in the company’s next chapter. The story brought together its Colorado origins, small-batch products, and the experiences the sauces were made to be part of: food, memories, and gathering around a table.
 

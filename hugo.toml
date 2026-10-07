@@ -164,7 +164,7 @@ capitalizeListTitles = false
 # header, so a key written below [params.address] becomes params.address.<key>
 # and the theme never sees it.
 [params]
-  description = 'Antilo Consulting and Antilo Design: Denver-based strategy, websites, and marketing led by David DeBonis, Founder and Lead Consultant.'
+  description = 'Antilo Consulting and Antilo Design: coaching, consulting, design, and growth systems for entrepreneurs. Led by David DeBonis in Denver.'
 
   # Company details. Nothing company-specific is hardcoded in the templates.
   companyName = 'Antilo'
@@ -220,14 +220,14 @@ capitalizeListTitles = false
   [params.cta]
     eyebrow = 'Next step'
     title = 'Let’s bring your next chapter into focus.'
-    text = 'You know what your business could become. Bring us the idea, the challenge, or the ambition. We’ll help you find the words, design, and direction to move it forward.'
+    text = 'An idea you’re exploring. A launch you’re planning. A business ready to grow. Bring us where you are, and we’ll help you work out the next step and put it into practice.'
     primaryLabel = 'Start a conversation'
     primaryURL = '/contact/'
     secondaryLabel = 'Explore our services'
     secondaryURL = '/services/'
 
   [params.footer]
-    text = 'Thoughtful strategy, design, and marketing for businesses with something to give. Based in Denver. Invested in what you’re building.'
+    text = 'Coaching, consulting, design, and sustainable systems to help you design, build, grow, and scale your business. Based in Denver. With you from the first idea.'
     note = ''
 
   [params.seo]
@@ -244,10 +244,10 @@ capitalizeListTitles = false
 
   # Point action at Formspree, Netlify Forms or your own endpoint.
   [params.contactForm]
-    action = ''
+    action = 'https://formspree.io/f/xnpjpzka'
     method = 'POST'
     netlify = false
-    successMessage = 'Thanks for getting in touch with Antilo.'
+    # Formspree displays its confirmation page after a successful POST.
 
   [[params.social]]
     name = 'RSS'

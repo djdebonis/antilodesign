@@ -1,21 +1,21 @@
 ---
 title: "Antilo"
-description: "Antilo Consulting and Antilo Design help businesses grow through strategy, websites, and marketing. Led by David DeBonis in Denver, Colorado."
+description: "Antilo Consulting and Antilo Design help entrepreneurs design, build, grow, and scale through coaching, consulting, design, and sustainable systems."
 sections:
   -
     type: "hero"
-    title: "You’ve built something worth believing in."
-    eyebrow: "Story-led marketing for small businesses & startups"
-    lead: "Let’s give people a reason to remember it. Antilo brings your story and the evidence behind it into website design, digital marketing, and content creation. Built around the ambitions and resources of small businesses and startups, with room for established companies finding their next chapter."
-    image: "images/hero.jpg"
+    title: "From your first idea to your next stage of growth."
+    eyebrow: "Coaching, consulting, design & growth systems"
+    lead: "We help aspiring entrepreneurs, entrepreneurs, small businesses, and startups design, build, grow, and scale their businesses. Through values-driven coaching, marketing and communications consulting, and design and systems support, we help you work out what comes next and put it into practice."
+    image: "images/antilo_consulting_landscape_sunset.jpg"
     imageAlt: "Placeholder photography for the Antilo homepage"
     primary:
-      label: "Talk about your project"
+      label: "Tell us about your project"
       url: "/contact/"
     secondary:
       label: "Explore our services"
       url: "/services/"
-    note: "Denver roots. A particular interest in health. An open door to good businesses everywhere."
+    note: "Denver roots. Autnethic experience. A mission to serve."
     facts:
       -
         value: "Clarify"
@@ -28,17 +28,23 @@ sections:
         label: "With people who need you"
   -
     type: "logos"
-    title: "Built for people building something"
+    title: "For people ready to start, build, or grow"
     eyebrow: "Your kind of business"
   -
     type: "content"
     title: "Your brand needs a story people can connect with."
     eyebrow: "A different starting point"
   -
+    type: "values"
+    title: "How we help move your project or business forward."
+    eyebrow: "Our offer"
+    lead: "Bring us an idea, a challenge, or a business ready for more. We shape support around where you are and what you want to build."
+    data: "offer"
+  -
     type: "services"
-    title: "Make the quality of your business visible."
+    title: "Bring your ideas into the world."
     eyebrow: "Our services"
-    lead: "Maybe your website hasn’t kept up. Maybe your offer takes too long to explain. Maybe you’re starting from a blank page. We connect strategy, words, and design around the problem that matters most."
+    lead: "Maybe your website needs an upgrade. Maybe you want to show up on Google. Maybe you want to see if social media is a good use of your time. Maybe you’re starting from a blank page. In any case, we connect strategy, words, and design around the problem that matters most."
     tone: "muted"
     link:
       label: "Explore all services"
@@ -57,28 +63,28 @@ sections:
     type: "about"
     title: "Your ambition deserves thoughtful company."
     eyebrow: "Meet Antilo"
-    lead: "Running a business asks you to care about a hundred things at once. Antilo brings attention to the way people see, understand, and choose yours. We start by listening to what you’re building, then help you give it a stronger presence."
+    lead: "Starting or running a business asks you to care about a hundred things at once. We help you find direction, bring your ideas to life, and build ways of working that support your growth. You can come with a business in motion or an idea you’re still exploring."
     tone: "muted"
     image: "images/about-studio.jpg"
     imageAlt: "Placeholder photography for the Antilo about section"
     points:
       -
         title: "Find the real story"
-        text: "The details you take for granted may be exactly what your customers need to hear. We look for those details."
+        text: "What matters to you, the problem you want to solve, and the people you hope to serve give us a place to begin."
       -
         title: "Respect the stage you’re in"
-        text: "A first launch and a long-established business need different things. The scope should reflect that."
+        text: "Exploring an idea, preparing to launch, and scaling a business call for different support. The scope should reflect that."
       -
         title: "Leave you with something useful"
-        text: "A clearer message. A website you can point people to with pride. Materials that help you have the next conversation."
+        text: "A decision you can act on. A website ready to share. A repeatable process that gives you room to grow."
     link:
       label: "Get to know Antilo"
       url: "/about/"
   -
     type: "values"
-    title: "Health is close to our heart. Our curiosity goes further."
+    title: "Mission-driven brands who want to make an impact"
     eyebrow: "Who we work with"
-    lead: "We’re drawn to businesses that make life better, including those in health and wellness. We bring the same care to a neighborhood business, a new venture, or an established company finding its next direction."
+    lead: "We’re drawn to businesses that make life better. Much of our work supports businesses in the health and wellness space. But we've also worked with restaurants, ecommerce companies, and local brick and mortar construction companies. We bring the same care to ever neighborhood business, new venture, or established company finding its next direction. **Our mission is to help you make the impact you dream about.**"
     data: "audiences"
   -
     type: "process"
@@ -106,9 +112,11 @@ sections:
     type: "cta"
 ---
 
-The systems that work for big, established brands don’t always translate to small businesses and startups. Larger companies can draw on bigger budgets, wider recognition, and more people. Your marketing needs to work with the resources you actually have.
+The systems that work for big, established brands don’t always translate to new ventures, small businesses, and startups. Larger companies can draw on bigger budgets, wider recognition, and more people. Then misconceptions grow that what worked with them will work for *(everyone*)
 
-That starts with what makes your business worth paying attention to: the problem you understand, the care you bring, and the reason someone would choose you. A clear story gives those details a place in people’s minds and something to remember you by.
+**Our specialty is to help spark, launch, and scale ventures that can't afford a full-time marketing team.** Whether you’re exploring your first idea or running a business, your plan needs to work with the resources you actually have.
+
+That starts with what makes your business worth paying attention to: the problem you want to solve, the care you bring, and the reason someone would choose you. A clear story gives those details a place in people’s minds and something to remember you by.
 
 With AI making content easier to produce and social feeds full of competing messages, publishing more can become a job of its own. We focus on giving you something meaningful to say, then connecting it across your website, content, and campaigns.
 

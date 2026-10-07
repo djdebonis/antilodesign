@@ -45,3 +45,16 @@ There were no GitHub Actions workflows in the parent repository at setup time.
 No deployment workflow has been added. If one is added later, its checkout
 step must include `with: { submodules: recursive }` so the theme is available.
 No deployment or DNS changes were made.
+
+## Contact form
+
+The contact form uses native HTML POST to the Formspree endpoint configured in
+`params.contactForm.action` in `hugo.toml`. The local override is
+`layouts/_partials/contact-form.html`; no React, server runtime, or third-party
+JavaScript is needed. Formspree handles the response and hosted confirmation.
+The endpoint is a public form identifier, not an API secret.
+
+Before launch, submit a test inquiry with an email you control and check both
+the Formspree dashboard and destination inbox. Verify required-field validation,
+confirmation, and any configured spam protection. Dashboard settings and email
+delivery are not verified by a local Hugo build.
