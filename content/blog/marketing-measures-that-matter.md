@@ -6,8 +6,6 @@ date: "2026-09-22"
 author: "Antilo"
 description: "Start with the action you want a customer to take, then choose the signals worth reviewing."
 summary: "Start with the action you want a customer to take, then choose the signals worth reviewing."
-image: "images/blog-signals.jpg"
-imageAlt: "Placeholder editorial image"
 categories:
   - "Marketing"
 tags:

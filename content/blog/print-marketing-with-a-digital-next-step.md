@@ -6,8 +6,6 @@ date: "2026-09-22"
 author: "Antilo"
 description: "Design the printed piece and its destination as one conversation."
 summary: "Design the printed piece and its destination as one conversation."
-image: "images/blog-design-systems.jpg"
-imageAlt: "Placeholder editorial image"
 categories:
   - "Design"
 tags:

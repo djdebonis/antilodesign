@@ -1,10 +1,11 @@
 ---
+relatedWork: ["/work/tgb-flooring/"]
 title: "Local SEO"
 weight: 60
 icon: "bulb"
 description: "Local SEO for Denver and Colorado businesses, including business profile review, local content, and consistent business information."
 eyebrow: "Service"
-lead: "For a local business, being found is personal. Someone nearby needs what you do. We help your website and business listings explain your services, location, and next steps clearly and consistently."
+lead: "People looking for help nearby need to know what you do, where you work, and why they might choose you. We help make that information easier to find and more specific to your business, from local service pages to your Google Business Profile."
 summary: "Help nearby customers find you, understand your services, and plan a visit or inquiry."
 highlights:
   - "Google Business Profile review"

@@ -1,10 +1,11 @@
 ---
+relatedWork: ["/work/tgb-flooring/"]
 title: "SEO"
 weight: 40
 icon: "compass"
 description: "SEO strategy, on-page optimization, content planning, and technical review for businesses in Denver and beyond."
 eyebrow: "Service"
-lead: "Your customers may describe what they need differently than you do. We start with those questions, then shape your content and website so the right people have a better chance of finding useful answers."
+lead: "Useful search content starts with a real question. We look at what people are trying to understand and create pages that help them, with clear structure and a relevant next step. Research, writing, and the technical details work together here."
 summary: "Connect the questions people search for with the value your business offers."
 highlights:
   - "Search intent and keyword research"

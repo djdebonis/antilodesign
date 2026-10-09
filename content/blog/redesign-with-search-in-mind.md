@@ -6,8 +6,6 @@ date: "2026-09-22"
 author: "Antilo"
 description: "Treat existing pages and useful content as part of the redesign brief."
 summary: "Treat existing pages and useful content as part of the redesign brief."
-image: "images/blog-performance.jpg"
-imageAlt: "Placeholder editorial image"
 categories:
   - "Search"
 tags:
@@ -32,6 +30,12 @@ A clear service page can explain who the offer is for, what is included, and wha
 ## Review the launch as a whole
 
 Check key pages, links, forms, metadata, and redirects. A new design is one part of a working website; the paths people use to reach it deserve attention too.
+
+## When the business asks more of the website
+
+Colorado Sauce Company’s transition from Yampa Valley Sauce Company included a move from Wix to Shopify. We rebuilt the store around cases, offers, discounts, and customer accounts, alongside product pages, newsletter opt-ins, email flows, and recipe content. Those were the needs of this project; another business may need a different platform or a smaller change.
+
+The useful starting point is what the website needs to do for the business and its customers. That gives the platform decision something concrete to answer. [Read the Colorado Sauce Company case study](/work/colorado-sauce-company/).
 
 ## Bring it into your next project
 

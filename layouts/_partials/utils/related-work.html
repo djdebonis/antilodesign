@@ -1,0 +1,4 @@
+{{ $page := . }}
+{{ $work := site.GetPage "/work" }}
+{{ $pages := where (where $work.RegularPages "Params.interiorPortfolio" true) "Permalink" "!=" $page.Permalink }}
+{{ return first 3 ($pages.ByParam "interiorOrder") }}

@@ -1,10 +1,11 @@
 ---
+relatedWork: ["/work/colorado-sauce-company/"]
 title: "Print Marketing & Design"
 weight: 30
 icon: "frame"
 description: "Print design for brochures, direct mail, business cards, signage, and sales materials with a consistent brand presence."
 eyebrow: "Service"
-lead: "Some moments call for something people can hold. A useful guide, a thoughtful brochure, a sign that welcomes someone in. We design printed pieces with attention to the moment they’ll be used."
+lead: "A label has to work on a shelf. A flyer has to make sense to someone walking past it. We think about where a piece will be used, what someone needs to notice, and what they can do next. Then we bring the words and design together for that setting."
 summary: "Make the in-person experience feel as considered as the one online."
 highlights:
   - "Brochures and sales collateral"

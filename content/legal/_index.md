@@ -1,7 +1,7 @@
 ---
 title: "Site information"
-description: "Site information and policy placeholders for Antilo."
+description: "Privacy and business information for Antilo."
 eyebrow: "Site information"
-lead: "Business details and privacy information will be completed before launch."
+lead: "Information about Antilo and the services used by this website."
 cta: false
 ---

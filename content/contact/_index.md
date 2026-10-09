@@ -1,26 +1,11 @@
 ---
-title: "What are you building?"
-description: "Start a conversation with Antilo about website design, digital and print marketing, SEO, or local SEO in Denver, Colorado."
-eyebrow: "Contact Antilo"
-lead: "Tell us what you’re imagining, building, or hoping to change. You don’t need an existing business, a website, or a polished brief to begin."
-sections:
-  -
-    type: "faq"
-    title: "What to include"
-    group: "contact"
-    tone: "muted"
-  -
-    type: "faq"
-    title: "Scope and budget"
-    group: "pricing"
+title: "Tell us what you’re working on"
+description: "Start a conversation with Antilo about your business or idea."
+lead: ""
 ---
 
-## A useful first conversation
+What are you hoping to build or change? Tell us a little about the business or idea, where things stand, and what you could use help with. A few sentences are plenty to get started.
 
-Share your idea or business, the support you’re looking for, and any target date or budget you have in mind. If you have a website, you can include that too. We can use that context to talk through the next step.
-
-Whether you’re opening a practice, launching a new idea, or giving an established business a fresh chapter, we’d like to understand what this next step means to you.
-
-Use the form below to tell us what you have in mind.
+If you have a website, a target date, or a budget in mind, include those too. It’s fine if you’re still working that out. We can use the first conversation to understand the project and decide on a useful next step.
 
 {{< contact-map >}}

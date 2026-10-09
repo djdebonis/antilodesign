@@ -1,10 +1,11 @@
 ---
+relatedWork: ["/work/colorado-sauce-company/", "/work/katalytic-collective/"]
 title: "Website Design"
 weight: 10
 icon: "code"
 description: "Website design for Denver businesses that want to look credible, explain their services, and turn interest into inquiries."
 eyebrow: "Service"
-lead: "A website that feels like the business you’ve worked to build. We help people understand your offer, see what sets it apart, and find their next step, whether you’re launching or finally catching up with your own growth."
+lead: "Your website is a place where people try to understand your business. What do you do? Is it for them? What happens next? We work through those questions with you, then bring the pages, copy, and design together around the answers. The result should feel like your business and make sense to the people using it."
 summary: "Give people a clear picture of your business and a reason to take the next step."
 highlights:
   - "Website planning and copy direction"
@@ -56,3 +57,5 @@ aliases:
 A website is often the place where every other marketing effort lands. An ad, a business card, a search result, or a referral can all lead to the same page. That page needs to carry the conversation forward.
 
 We start with your customers and your offer, then plan the pages and content that connect them. Design choices serve the message: clear hierarchy, useful imagery, and enough room for people to find what they need.
+
+Platform choice is specific to the project: the business needs, the content, and the way the site will be maintained guide that decision.

@@ -6,8 +6,6 @@ date: "2026-09-22"
 author: "Antilo"
 description: "A simple brief can bring a website, print piece, or campaign into focus."
 summary: "A simple brief can bring a website, print piece, or campaign into focus."
-image: "images/blog-discovery.jpg"
-imageAlt: "Placeholder editorial image"
 categories:
   - "Marketing"
 tags:

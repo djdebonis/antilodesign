@@ -6,8 +6,6 @@ date: "2026-09-22"
 author: "Antilo"
 description: "Define what the project needs to include before comparing prices."
 summary: "Define what the project needs to include before comparing prices."
-image: "images/blog-discovery.jpg"
-imageAlt: "Placeholder editorial image"
 categories:
   - "Marketing"
 tags:

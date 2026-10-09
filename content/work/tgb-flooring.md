@@ -1,4 +1,7 @@
 ---
+interiorOrder: 2
+interiorLead: "There’s a lot of knowledge behind a well-finished floor. We worked on bringing more of TGB Flooring’s experience into its website, from the people doing the work to the questions homeowners ask before starting a project. That included owner messaging, local service content, and a closer look at flooring in local home listings."
+interiorPortfolio: true
 title: "TGB Flooring"
 linkTitle: "Decades of craft. A more specific story to tell."
 client: "TGB Flooring"
@@ -48,11 +51,7 @@ This approach carried into the research that followed. We wanted to give TGB use
 
 ## Looking closely at 117 Highlands Ranch listings
 
-One of the most substantial resources we developed was a local report comparing hardwood and laminate flooring in **117 Highlands Ranch home listings**. The sample included **72 listings identifying hardwood** and **45 identifying laminate**.
-
-We turned that comparison into original material for TGB’s website. It brought a local perspective to a topic relevant to the company’s services and gave homeowners a defined set of observations to consider when thinking about flooring.
-
-The sample was central to how we presented the work. These were observations from a particular group of listings, and the value of the resource depended on making both the comparison and its boundaries understandable.
+We compared 117 Highlands Ranch listings that identified hardwood or laminate flooring and turned the analysis into a resource homeowners could read. The findings needed context. Differences in asking prices could describe the sample, but they could not tell us what installing a floor would add to a particular home’s value. We kept that distinction visible in the explanation.
 
 ## Turning the analysis into a resource people could use
 
@@ -75,3 +74,10 @@ Keeping those boundaries visible allowed the resource to be useful on its own te
 Together, the owner messaging, service-area copy, project storytelling, and research gave TGB a more specific story to tell. Its experience became material homeowners could read, recognize, and use as they explored their options.
 
 Our work connected that story to a practical website resource: original local research, presented with care, and linked to the services behind it. The project gave TGB a foundation for marketing grounded in its own history, craftsmanship, and market.
+
+## Work delivered
+
+- Owner messaging and local service content
+- Project storytelling
+- Research covering 117 listings: 72 hardwood and 45 laminate
+- HTML resource with methodology, limitations, FAQs, and structured data

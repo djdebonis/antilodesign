@@ -1,10 +1,11 @@
 ---
+relatedWork: ["/work/colorado-sauce-company/"]
 title: "Digital Marketing"
 weight: 20
 icon: "chart"
 description: "Digital marketing strategy, campaign creative, email, and landing pages for Denver businesses and growing brands."
 eyebrow: "Service"
-lead: "A launch to introduce. A service people don’t know you offer. A conversation worth continuing. We shape content and campaigns around something you have to say and the people who need to hear it."
+lead: "An email, a product page, and a social post can each play a different part in the same conversation. We help you decide what you want people to understand and do, then create the content and connections that support it. The plan needs to fit the time and resources you have to keep it going."
 summary: "Turn an offer, a launch, or an idea into a campaign with a clear purpose."
 highlights:
   - "Campaign strategy and creative"

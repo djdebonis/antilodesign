@@ -64,8 +64,14 @@
       </div>
     </div>
 
-    <button class="button button--primary button--lg" type="submit">Send inquiry</button>
+    <button class="button button--primary button--lg" type="submit">Send your inquiry</button>
 
-    <p class="muted"><small>Your inquiry is sent through Formspree. After submission, Formspree will display a confirmation or any issue that needs attention.</small></p>
+    <p class="muted"><small>We’ll use the information you share to respond to your inquiry. <a href="/legal/privacy/">Read our privacy information.</a></small></p>
   </fieldset>
 </form>
+<p id="contact-success" role="status" tabindex="-1" hidden>Thanks for getting in touch. Your inquiry has been sent.</p>
+<p id="contact-error" role="alert" tabindex="-1" hidden>Your inquiry couldn’t be sent. Please try again.</p>
+{{ with resources.Get "js/contact.js" }}
+  {{ $script := . | minify | fingerprint }}
+  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
+{{ end }}

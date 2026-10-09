@@ -6,8 +6,6 @@ date: "2026-09-22"
 author: "Antilo"
 description: "A few clear design decisions can connect a website, brochure, and everyday business materials."
 summary: "A few clear design decisions can connect a website, brochure, and everyday business materials."
-image: "images/blog-design-systems.jpg"
-imageAlt: "Placeholder editorial image"
 categories:
   - "Design"
 tags:

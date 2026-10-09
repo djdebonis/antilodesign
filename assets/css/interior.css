@@ -1,0 +1,2 @@
+/* Loaded only on interior pages. Keep the homepage stylesheet unchanged. */
+.cta--inverse .eyebrow { color: var(--pc-text-inverse); }

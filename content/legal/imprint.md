@@ -1,19 +1,15 @@
 ---
 title: "Business information"
-description: "Business information for Antilo, a design and marketing agency based in Denver, Colorado."
-eyebrow: "Site information"
-lead: "Antilo · Denver, Colorado"
+description: "Information about Antilo Consulting and Antilo Design, led by David DeBonis in the Denver area."
 cta: false
 ---
 
-## About this site
+## Antilo
 
-This is the working website for Antilo, a marketing consultancy and design firm based in Denver, Colorado.
+Antilo Consulting and Antilo Design are names used for the work of Antilo, led by David DeBonis, Founder and Lead Consultant, in the Denver area. [Meet David](/team/) or [contact Antilo](/contact/).
 
-## Details to complete
+## Work shown on this site
 
-The legal business name, public contact email, and any applicable mailing or business address have not yet been added. This page will be updated with confirmed information before launch.
+The Work page presents Colorado Sauce Company, TGB Flooring, The Katalytic Collective, Wild Spirit Mountain Lodge, and Nano Bella. Nano Bella describes David’s role within that business, rather than a separate Antilo client engagement. Katalytic is identified as a website project in progress, and Wild Spirit Mountain Lodge is a short project note. Older illustrative briefs remain clearly identified as concepts where they are accessible.
 
-## Project examples and imagery
-
-The project concepts on this site are illustrative briefs. They do not describe completed client work. Photos are temporary theme assets, and team and testimonial areas are clearly marked placeholders.
+Client testimonials retain their supplied attribution. David’s university employment is part of his professional background, distinct from Antilo client work. It does not imply a university endorsement of Antilo.

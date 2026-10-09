@@ -6,8 +6,6 @@ date: "2026-09-22"
 author: "Antilo"
 description: "Give nearby customers a consistent picture of what you do and where you work."
 summary: "Give nearby customers a consistent picture of what you do and where you work."
-image: "images/blog-signals.jpg"
-imageAlt: "Placeholder editorial image"
 categories:
   - "Search"
 tags:
@@ -32,6 +30,12 @@ Explain the services you actually provide in the areas you actually serve. A pag
 ## Build an honest feedback habit
 
 Ask customers for genuine feedback and respond thoughtfully. Local visibility is an ongoing part of the business presence, not a promise of a particular map position.
+
+## Give the local story something substantive
+
+For TGB Flooring, we compared 117 Highlands Ranch home listings identifying hardwood or laminate flooring: 72 hardwood and 45 laminate. We turned the analysis into an HTML resource with a comparison table, methodology, limitations, and homeowner FAQs.
+
+The interpretation was part of the work. Differences in asking prices described the sample; they did not establish what installing a floor would add to a particular home’s value. Original research can give readers something useful to consider when its boundaries are clear. [Read the TGB Flooring case study](/work/tgb-flooring/).
 
 ## Bring it into your next project
 

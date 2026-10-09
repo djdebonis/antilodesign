@@ -1,10 +1,11 @@
 ---
+relatedWork: ["/work/colorado-sauce-company/"]
 title: "Branding & Marketing Strategy"
 weight: 50
 icon: "spark"
 description: "Brand positioning, visual identity, and practical marketing consulting for Denver businesses."
 eyebrow: "Service"
-lead: "You may know exactly why your business matters and still struggle to put it into words. We help find that thread, then give it a voice and visual identity that feel true to you."
+lead: "Sometimes the business has changed and the way it presents itself hasn’t caught up. Sometimes the idea is still taking shape. We help you work through what you offer, who it matters to, and how to express it in words and design. That gives the website, the packaging, and the rest of your marketing a shared place to begin."
 summary: "Find the words, identity, and direction that make your business recognizable."
 highlights:
   - "Positioning and messaging"

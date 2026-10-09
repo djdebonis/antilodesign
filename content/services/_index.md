@@ -1,24 +1,12 @@
 ---
-title: "Support to design, build, grow, and scale"
-description: "Values-driven coaching, marketing and communications consulting, design and development, and sustainable growth systems from Antilo in Denver."
-eyebrow: "What we do"
-lead: "You don’t need an established business to work with us. We help aspiring entrepreneurs, entrepreneurs, small businesses, and startups find direction, put ideas into practice, and build the foundations for growth."
+title: "Let’s work out what your business needs"
+description: "Strategy, writing, design, and development from Antilo, with a scope that fits your business."
+lead: "You might know exactly what needs to change. You might just know that something isn’t working as well as it could. We can start there. Our work brings together strategy, writing, design, and development, with a scope that fits where you are and what you want to do next."
 sections:
-  -
-    type: "values"
-    title: "Four connected areas of support"
-    data: "offer"
-  -
-    type: "process"
-    title: "A clear path from idea to launch"
-    eyebrow: "How we work"
-    tone: "muted"
-  -
-    type: "faq"
-    title: "A few practical questions"
-    group: "process"
-  -
-    type: "cta"
+  - type: "pricing"
+    title: "Ways to work together"
 ---
 
-Our offer brings together values-driven coaching, marketing and communications consulting, website and media design and development, and sustainable systems for business growth. You may need help shaping an idea, launching a website, reaching customers, or building processes that can support a larger business. We’ll choose a starting point together. The services below describe some of the ways we put that work into practice.
+
+
+A plan has to fit the business that will use it. We start with what you have, what you need, and what you can realistically keep up with. From there, we work out what deserves attention and build something you can put to use.

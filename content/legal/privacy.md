@@ -1,17 +1,25 @@
 ---
 title: "Privacy information"
-description: "Privacy notice placeholder for the Antilo website."
-eyebrow: "Site information"
-lead: "This notice is being prepared for launch."
+description: "How this website handles inquiries and uses Formspree, GitHub Pages, and Google Maps."
 cta: false
 ---
 
-## Policy in preparation
+## Information you send us
 
-This page is a placeholder, not a completed privacy policy. The final notice needs to describe the actual hosting, contact, analytics, and marketing services used on the published site.
+The contact form asks for your name, email address, message, and consent to respond. Business or idea details and budget are optional. We use the information you share to respond to your inquiry.
 
-## Before this page is complete
+## Form submissions
 
-Confirm what information is collected, why it is used, who processes it, how long it is retained, and how someone can contact Antilo about it. Include the choices available to visitors based on the final setup.
+The form sends your information to Formspree, the service configured to process inquiries for Antilo. Formspree receives the submitted fields and handles the submission before Antilo receives the inquiry.
 
-The contact form sends the information you enter to Formspree so Antilo can receive and respond to your inquiry. The form asks for your name, email address, message, and consent, with optional business and budget details. Analytics settings remain unconfigured. The contact page also embeds Google Maps. Complete this notice with the remaining business and data-handling details before launch.
+## Website hosting and maps
+
+This website is configured for GitHub Pages hosting. The Contact page includes an embedded Google Map. Loading that map connects your browser to Google. These third-party services process requests under their own practices.
+
+## Analytics
+
+No Plausible or Google Analytics account is configured in the current website. This does not describe the separate request processing performed by the hosting, form, or map services.
+
+## Questions about your information
+
+Use the [contact form](/contact/) to ask about information you have shared with Antilo.

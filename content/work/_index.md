@@ -1,9 +1,5 @@
 ---
-title: "Work & case studies"
-description: "Explore Antilo’s case studies for Colorado Sauce Company and TGB Flooring, alongside illustrative briefs for branding, website design, and marketing."
-eyebrow: "The work in context"
-lead: "A brand finding its next chapter. A local contractor bringing its experience into focus. Explore our work with Colorado Sauce Company and TGB Flooring; the remaining entries are clearly labeled illustrative briefs, not completed client projects."
-sections:
-  -
-    type: "cta"
+title: "A closer look at the work"
+description: "Project stories and professional experience: Colorado Sauce Company, TGB Flooring, The Katalytic Collective, Wild Spirit Mountain Lodge, and Nano Bella."
+lead: "A new name on a familiar bottle. A website that needs to carry more of the business behind it. A question worth looking into more carefully. Every project starts somewhere different. Here are a few of the ways we’ve brought the story, the design, and the practical work together."
 ---
