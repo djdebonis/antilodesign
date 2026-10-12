@@ -11,8 +11,8 @@ highlights:
   - "Positioning and messaging"
   - "Visual identity and brand guidance"
   - "Marketing priorities and planning"
-engagement: "A focused project or ongoing support, scoped around your priorities."
-timeline: "Schedule confirmed after we review the scope and available content."
+engagement: "Support for a new brand, a change in direction, or marketing that no longer reflects the business."
+timeline: "We agree on the materials you need and allow time to explore and review the direction."
 benefits:
   -
     title: "Explain why you matter"
@@ -28,25 +28,25 @@ benefits:
     text: "Turn a broad marketing wish list into a sequence of practical priorities."
 process:
   -
-    title: "Understand"
-    text: "Review the business, audience, existing materials, and goals."
-    duration: "Discovery"
+    title: "Find the story"
+    text: "Talk through why the business exists, who it serves, and what makes it worth choosing."
+    duration: "Business and audience"
   -
-    title: "Plan"
-    text: "Agree on priorities, deliverables, and a direction for the work."
-    duration: "Planning"
+    title: "Choose the message"
+    text: "Develop the positioning and language that will guide how you explain the business."
+    duration: "Messaging"
   -
-    title: "Create"
-    text: "Develop the work and refine it with your feedback."
-    duration: "Design and delivery"
+    title: "Develop the identity"
+    text: "Explore how the story comes through in type, color, imagery, and the materials people see."
+    duration: "Visual direction"
   -
-    title: "Put it to work"
-    text: "Prepare the agreed handoff and identify the next useful improvements."
-    duration: "Launch and review"
+    title: "Make it usable"
+    text: "Prepare the files and guidance you need to use the identity consistently in everyday work."
+    duration: "Files and guidance"
 deliverables:
   - "Brand and audience brief"
   - "Messaging direction"
-  - "Visual identity assets as scoped"
+  - "The identity files your business needs"
   - "Brand guidelines and marketing priorities"
 ---
 

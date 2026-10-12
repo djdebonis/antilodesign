@@ -1,0 +1,86 @@
+ANTILO CONSULTING | WEBSITE PLANNING WORKSHEET
+Companion: https://antilodesign.com/blog/what-your-business-website-needs/
+Use this as a working document. Replace the prompts with your answers.
+
+1. THE DECISION
+Business and project owner:
+When someone arrives because of:
+They should be able to decide:
+And then:
+Primary visitor action:
+What we know from customers:
+What we are assuming and need to test:
+
+2. PAGE PLAN (copy this block for each proposed page)
+Page / proposed URL:
+Visitor question:
+Information needed to answer it:
+Evidence we have permission to use:
+Primary action:
+Related page to link to:
+Person who confirms accuracy:
+Why this needs its own page instead of a section elsewhere:
+
+3. CONTENT AND EVIDENCE
+Service scope and exclusions:
+Relevant work / our exact role / project stage:
+Outcomes we can support and their source:
+Claims we cannot yet support:
+Approved testimonial attribution:
+Images needed and who can approve them:
+
+4. PLATFORM COMPARISON (repeat for each candidate)
+Platform:
+Demonstrate these editing tasks:
+Required integrations and functions:
+Initial and recurring cost estimates / source / date:
+Account owner:
+Maintenance owner:
+Export and transfer options:
+Known limitations:
+Actual editor attempted the sample task / result / assistance needed:
+How to undo a mistaken edit:
+Steps requiring another person or subscription:
+Domain, hosting, form-service, and recovery-account control:
+Exit / handoff procedure if the provider changes:
+
+5. LAUNCH REVIEW
+For each item record PASS, ISSUE, or NOT APPLICABLE, plus owner and evidence.
+Offer and claims are accurate:
+Navigation, internal links, images, and previous URLs:
+Form: validation, errors, confirmation, recipient receipt:
+Checkout or booking, if applicable:
+Phone and keyboard completion of primary task:
+Titles, descriptions, canonical URLs, indexability, sitemap:
+Representative-page performance and image loading:
+Account ownership, handoff, maintenance:
+Observed task review (use an unfamiliar reviewer):
+- Can they explain the offer, exclusions, and next step? Record their words:
+- Starting on a service/product page, can they find evidence and act?:
+- Test submission reference and confirmed recipient receipt:
+- Failure recovery tested safely by builder / observed result:
+- Owner completed and reversed an edit / assistance required:
+Specialist accessibility or security review agreed in scope, if any:
+Launch-blocking issues / assigned owner:
+Deferred improvements / review date:
+
+6. AFTER LAUNCH
+Who monitors inquiries:
+What customer questions will we record:
+First review date and decision to make:
+Number of inquiries / number that fit the offer:
+Recurring unanswered questions:
+Discovery problem, offer misunderstanding, or follow-up issue to investigate:
+What evidence supports the proposed change:
+Context that could affect interpretation (promotion, availability, sample size):
+
+COMPLETED EXAMPLE: FICTIONAL OPERATIONS CONSULTANCY
+This illustrates a planning decision, not a client project or performance claim.
+Visitor: owner whose work gets lost between inquiry and delivery.
+Decision: whether an operations review fits their situation.
+Action: describe where work gets stuck.
+Pages: Home, operations review, About, Contact.
+Evidence: labeled example handoff map; relevant employment experience with role.
+First offer: operations review; implementation quoted separately.
+Defer: booking automation, newsletter, industry-page library.
+First question to monitor: do suitable inquiries understand the initial scope?

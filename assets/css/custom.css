@@ -220,3 +220,15 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
+
+/* A small, decorative five-star motif shared by every testimonial layout. */
+.testimonial__stars {
+  display: flex;
+  gap: 0.25rem;
+  margin-bottom: 1rem;
+  color: var(--pc-accent);
+}
+.testimonial__stars svg {
+  display: block;
+  flex: 0 0 18px;
+}

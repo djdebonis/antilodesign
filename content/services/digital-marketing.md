@@ -11,8 +11,8 @@ highlights:
   - "Campaign strategy and creative"
   - "Email and social content"
   - "Landing pages and measurement planning"
-engagement: "A focused project or ongoing support, scoped around your priorities."
-timeline: "Schedule confirmed after we review the scope and available content."
+engagement: "Help with a launch, an individual campaign, or the marketing you need to keep running."
+timeline: "We plan around your launch dates, the content needed, and time to check the campaign before it goes out."
 benefits:
   -
     title: "Choose channels with a purpose"
@@ -28,32 +28,30 @@ benefits:
     text: "Review inquiries and meaningful actions alongside traffic and engagement."
 process:
   -
-    title: "Understand"
-    text: "Review the business, audience, existing materials, and goals."
-    duration: "Discovery"
+    title: "Know the audience"
+    text: "Understand who you want to reach, what they care about, and the offer you want them to consider."
+    duration: "Audience and offer"
   -
-    title: "Plan"
-    text: "Agree on priorities, deliverables, and a direction for the work."
-    duration: "Planning"
+    title: "Connect the channels"
+    text: "Decide how email, social content, and landing pages will work together, and what you can maintain."
+    duration: "Campaign planning"
   -
-    title: "Create"
-    text: "Develop the work and refine it with your feedback."
-    duration: "Design and delivery"
+    title: "Create and check"
+    text: "Write and design the materials, then check links, forms, and the path from message to action."
+    duration: "Content and setup"
   -
-    title: "Put it to work"
-    text: "Prepare the agreed handoff and identify the next useful improvements."
-    duration: "Launch and review"
+    title: "Review the response"
+    text: "Look at what people read, click, and ask about, then use that evidence to improve the next campaign."
+    duration: "Learning and refinement"
 deliverables:
   - "Campaign brief and channel plan"
   - "Creative assets and copy"
   - "Email or landing page content"
   - "Measurement and reporting plan"
-aliases:
-  - "/services/software-development/"
 ---
 
 ## Have something worth saying. Give it somewhere to go.
 
 More activity does not automatically mean better marketing. A useful campaign has a specific audience, a relevant offer, and a next step that makes sense.
 
-Antilo brings planning and design into the same conversation. We can help prepare a launch, refresh an ongoing campaign, or organize disconnected marketing into a plan your business can maintain. Channel management and advertising spend are scoped separately.
+Antilo brings planning and design into the same conversation. We can help prepare a launch, refresh an ongoing campaign, or organize disconnected marketing into a plan your business can maintain. If you need ongoing channel management, we agree on that support before work begins. Advertising spend is separate from the cost of creating the campaign.

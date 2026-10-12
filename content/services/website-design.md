@@ -1,5 +1,5 @@
 ---
-relatedWork: ["/work/colorado-sauce-company/", "/work/katalytic-collective/"]
+relatedWork: ["/work/colorado-sauce-company/", "/work/nano-bella/"]
 title: "Website Design"
 weight: 10
 icon: "code"
@@ -11,8 +11,8 @@ highlights:
   - "Website planning and copy direction"
   - "Responsive page design"
   - "Launch planning and editor guidance"
-engagement: "A focused project or ongoing support, scoped around your priorities."
-timeline: "Schedule confirmed after we review the scope and available content."
+engagement: "A new website, a redesign, or improvements to the pages you already have."
+timeline: "We plan the schedule around your pages, content, and the features that need to be built and tested."
 benefits:
   -
     title: "Make your offer clear"
@@ -28,21 +28,21 @@ benefits:
     text: "Use calls to action that fit the page, whether that means calling, requesting a quote, or learning more."
 process:
   -
-    title: "Understand"
-    text: "Review the business, audience, existing materials, and goals."
-    duration: "Discovery"
+    title: "Understand the visit"
+    text: "Work out who will use the website, what they need to know, and what they should be able to do."
+    duration: "Audience and goals"
   -
-    title: "Plan"
-    text: "Agree on priorities, deliverables, and a direction for the work."
-    duration: "Planning"
+    title: "Plan the pages"
+    text: "Map the content and navigation, then choose a platform you can maintain."
+    duration: "Structure and content"
   -
-    title: "Create"
-    text: "Develop the work and refine it with your feedback."
-    duration: "Design and delivery"
+    title: "Write, design, and build"
+    text: "Bring the copy and layouts together, with opportunities to review the site as it develops."
+    duration: "Site development"
   -
-    title: "Put it to work"
-    text: "Prepare the agreed handoff and identify the next useful improvements."
-    duration: "Launch and review"
+    title: "Test and launch"
+    text: "Check forms, links, and mobile layouts, then walk you through keeping the site up to date."
+    duration: "Launch and handoff"
 deliverables:
   - "Sitemap and page plan"
   - "Website copy and design direction"
@@ -50,9 +50,10 @@ deliverables:
   - "Launch checklist and editing guidance"
 aliases:
   - "/services/web-development/"
+  - "/services/ui-ux-design/"
 ---
 
-## Your business has moved forward. Has your website?
+## What should your website help people do?
 
 A website is often the place where every other marketing effort lands. An ad, a business card, a search result, or a referral can all lead to the same page. That page needs to carry the conversation forward.
 

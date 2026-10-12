@@ -47,11 +47,9 @@ We worked on project content explaining what it takes to extend hardwood into an
 
 That specificity gave the craftsmanship a practical context. A homeowner could recognize the situation: a space changing, a floor being extended, and a desire for the finished rooms to feel connected. The content helped explain the work behind that goal.
 
-This approach carried into the research that followed. We wanted to give TGB useful material rooted in its local market, with enough substance for homeowners to explore a question in greater depth.
-
 ## Looking closely at 117 Highlands Ranch listings
 
-We compared 117 Highlands Ranch listings that identified hardwood or laminate flooring and turned the analysis into a resource homeowners could read. The findings needed context. Differences in asking prices could describe the sample, but they could not tell us what installing a floor would add to a particular home’s value. We kept that distinction visible in the explanation.
+We compared 117 Highlands Ranch home listings: 72 identifying hardwood flooring and 45 identifying laminate. We turned the analysis into a resource homeowners could read, with the sample, method, and limits explained alongside the findings.
 
 ## Turning the analysis into a resource people could use
 

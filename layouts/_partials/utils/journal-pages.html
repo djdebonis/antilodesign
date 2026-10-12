@@ -1,0 +1,4 @@
+{{- /* Keep head pagination and the visible journal in the same order. */ -}}
+{{- $guides := where .RegularPages "Params.cornerstone" true -}}
+{{- $supporting := where .RegularPages "Params.cornerstone" "ne" true -}}
+{{- return ($guides | append $supporting) -}}

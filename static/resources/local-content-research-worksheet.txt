@@ -1,0 +1,90 @@
+ANTILO CONSULTING | LOCAL CONTENT AND RESEARCH WORKSHEET
+Companion: https://antilodesign.com/blog/local-seo-starts-with-clear-information/
+This is an editorial planning tool, not a ranking formula.
+
+1. BUSINESS RECORD
+Public business name:
+Monitored contact channel:
+Website and relevant service pages:
+Opening / appointment arrangements:
+Actual service area:
+Profile eligibility and address presentation checked against current Google guidance:
+Person responsible for updates:
+Places requiring an update when details change:
+
+2. PAGE DECISION (repeat for each service or location)
+Customer's decision in their own words:
+Existing page that could answer it:
+Subject-matter reviewer:
+Definition of done:
+Evidence or photography approval owner:
+Question the page will answer:
+How this differs from an existing page:
+Operational information specific to this service or place:
+Evidence we can substantiate:
+What we cannot claim:
+Next useful action for the visitor:
+Decision: create / improve an existing page / defer
+Reason:
+
+3. RESEARCH PLAN (complete before collecting data)
+Question:
+Unit of observation (one record represents):
+Source and permission to use it:
+Collection period:
+Geographic scope, if relevant:
+Inclusion rules:
+Exclusion rules:
+Duplicate handling:
+Missing-data handling:
+Comparison or summary planned:
+Differences between groups we cannot control:
+
+4. AUDIT TRAIL (repeat per source or dataset)
+Source identifier:
+Collection date:
+Version or original record location (keep private if needed):
+Cleaning or classification changes and reasons:
+Person checking accuracy:
+Private or restricted information to exclude from publication:
+
+5. FINDING AND LIMITS
+Included record count:
+Group counts, if comparing:
+Observation supported by those records:
+Important limitation to place beside the finding:
+What the result does NOT establish:
+Method detail readers need:
+Text explanation of any chart or image:
+Link to related service and why it helps:
+
+6. REVIEW
+Publication date:
+Last substantive update:
+Conditions that would require a revision:
+Measures of visibility, use, and inquiry relevance available:
+Other changes or seasonal factors to note:
+Next review owner and date:
+
+7. IMPLEMENTATION AND DIAGNOSIS
+Priority service and reason to start there:
+Public URL and signed-out test date:
+Mobile inquiry test result / follow-up owner:
+Relevant page linking to this resource:
+URL Inspection result and date (indexed vs. live test):
+Unintended indexing block or canonical issue to investigate:
+Baseline period and comparison period:
+Queries / impressions / clicks observed (query reports are incomplete):
+Inquiry relevance observed (service / area / question):
+Possible explanations besides the content change:
+Next investigation and responsible person:
+
+COMPLETED PLANNING EXAMPLE — HYPOTHETICAL, NOT A CLIENT RESULT
+Question: Can this contractor extend my existing floor into the next room?
+Page decision: Improve the installation page; no new city page required.
+Content: Installer-reviewed explanation of assessment and matching limitations.
+Evidence: Approved project photographs with descriptive captions.
+Next action: Inquiry with town, project description, preferred contact method.
+Done: Explanation approved, permission documented, mobile inquiry received.
+Review: Note inquiry fit and recurring unanswered questions alongside search data.
+No promise: Neither an invisible flooring match nor a search ranking is guaranteed.

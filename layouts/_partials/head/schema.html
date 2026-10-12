@@ -18,6 +18,14 @@
 {{- $org = merge $org (dict "alternateName" site.Params.alternateNames "founder" (dict "@id" $personID)) -}}
 {{- with partial "utils/resolve-image.html" (dict "path" site.Params.logo) -}}
   {{- $org = merge $org (dict "logo" .Permalink) -}}
+{{- else -}}
+  {{- with site.Params.logo -}}
+    {{- if and (hasPrefix . "/") (not (hasPrefix . "//")) -}}
+      {{- if fileExists (printf "static/%s" (strings.TrimPrefix "/" .)) -}}
+        {{- $org = merge $org (dict "logo" (. | absURL)) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 {{- with site.Params.legalName }}{{ $org = merge $org (dict "legalName" .) }}{{ end -}}
 {{- with site.Params.description }}{{ $org = merge $org (dict "description" .) }}{{ end -}}
@@ -26,14 +34,13 @@
 {{- with site.Params.founded }}{{ $org = merge $org (dict "foundingDate" (printf "%v" .)) }}{{ end -}}
 
 {{- with site.Params.address -}}
-  {{- $org = merge $org (dict "address" (dict
-    "@type" "PostalAddress"
-    "streetAddress" (.street | default "")
-    "postalCode" (.postalCode | default "")
-    "addressLocality" (.city | default "")
-    "addressRegion" (.region | default "")
-    "addressCountry" (.countryCode | default .country | default "")
-  )) -}}
+  {{- $address := dict "@type" "PostalAddress" -}}
+  {{- with .street }}{{ $address = merge $address (dict "streetAddress" .) }}{{ end -}}
+  {{- with .postalCode }}{{ $address = merge $address (dict "postalCode" .) }}{{ end -}}
+  {{- with .city }}{{ $address = merge $address (dict "addressLocality" .) }}{{ end -}}
+  {{- with .region }}{{ $address = merge $address (dict "addressRegion" .) }}{{ end -}}
+  {{- with (or .countryCode .country) }}{{ $address = merge $address (dict "addressCountry" .) }}{{ end -}}
+  {{- if gt (len $address) 1 }}{{ $org = merge $org (dict "address" $address) }}{{ end -}}
 {{- end -}}
 
 {{- $sameAs := slice -}}
@@ -81,11 +88,15 @@
   -}}
   {{- with .Description }}{{ $article = merge $article (dict "description" (. | plainify)) }}{{ end -}}
   {{- with .Params.author -}}
-    {{- $article = merge $article (dict "author" (dict "@type" "Person" "name" .)) -}}
+    {{- if eq . "Antilo" -}}
+      {{- $article = merge $article (dict "author" (dict "@id" $orgID)) -}}
+    {{- else -}}
+      {{- $article = merge $article (dict "author" (dict "@type" "Person" "name" .)) -}}
+    {{- end -}}
   {{- else -}}
     {{- $article = merge $article (dict "author" (dict "@id" $orgID)) -}}
   {{- end -}}
-  {{- with partial "utils/resolve-image.html" (dict "page" . "path" (or .Params.image site.Params.ogImage)) -}}
+  {{- with partial "utils/resolve-image.html" (dict "page" . "path" (or .Params.image .Params.cover)) -}}
     {{- $article = merge $article (dict "image" .Permalink) -}}
   {{- end -}}
   {{- with .GetTerms "categories" -}}

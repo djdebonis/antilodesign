@@ -1,5 +1,6 @@
 ---
 relatedWork: ["/work/tgb-flooring/"]
+
 title: "Local SEO"
 weight: 60
 icon: "bulb"
@@ -11,8 +12,8 @@ highlights:
   - "Google Business Profile review"
   - "Local service and location content"
   - "Business listing consistency"
-engagement: "A focused project or ongoing support, scoped around your priorities."
-timeline: "Schedule confirmed after we review the scope and available content."
+engagement: "Help with your business profile, local service pages, and the information customers rely on to find you."
+timeline: "We plan around access to your website and profiles, the corrections needed, and the content we will develop."
 benefits:
   -
     title: "Present accurate business details"
@@ -28,32 +29,30 @@ benefits:
     text: "Plan a consistent way to request honest customer feedback and respond thoughtfully."
 process:
   -
-    title: "Understand"
-    text: "Review the business, audience, existing materials, and goals."
-    duration: "Discovery"
+    title: "Check what people find"
+    text: "Review your website, business profile, service area, and contact details for gaps or inconsistencies."
+    duration: "Local presence review"
   -
-    title: "Plan"
-    text: "Agree on priorities, deliverables, and a direction for the work."
-    duration: "Planning"
+    title: "Answer local questions"
+    text: "Identify what customers need to know about your services, availability, and the places you work."
+    duration: "Content planning"
   -
-    title: "Create"
-    text: "Develop the work and refine it with your feedback."
-    duration: "Design and delivery"
+    title: "Update the details"
+    text: "Improve the agreed pages and profile information, and connect them to a clear way to call or inquire."
+    duration: "Pages and profiles"
   -
-    title: "Put it to work"
-    text: "Prepare the agreed handoff and identify the next useful improvements."
-    duration: "Launch and review"
+    title: "Keep it accurate"
+    text: "Plan how you will maintain business details, request honest feedback, and review customer inquiries."
+    duration: "Ongoing care"
 deliverables:
   - "Local presence review"
   - "Business profile recommendations"
   - "Local page and content plan"
   - "Listing consistency and measurement priorities"
-aliases:
-  - "/services/consulting/"
 ---
 
 ## Be easier to find in the places you serve.
 
 Local discovery is about more than adding Denver to a page title. Customers need to know whether you provide the service they want, cover their area, and offer a clear way to get in touch.
 
-We help align those details across your website and local presence. Profile work depends on platform eligibility and access; the scope is tailored to your business. We do not invent office locations, buy reviews, or guarantee map placement.
+We look at the information a customer encounters from the search result through to the inquiry. That might mean correcting business details, explaining a service more fully, or making it easier to find the right contact page. For Google Business Profile work, we first check that your business is eligible and that you have access to manage it.

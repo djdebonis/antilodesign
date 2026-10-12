@@ -80,6 +80,24 @@ capitalizeListTitles = false
 
 # Footer links are grouped by the `group` menu parameter.
 [[menu.footer]]
+  name = 'Marketing Consulting'
+  pageRef = '/services/marketing-consulting'
+  weight = 5
+  [menu.footer.params]
+    group = 'Services'
+[[menu.footer]]
+  name = 'Business Coaching'
+  pageRef = '/services/business-coaching'
+  weight = 45
+  [menu.footer.params]
+    group = 'Services'
+[[menu.footer]]
+  name = 'Ongoing Marketing Support'
+  pageRef = '/services/ongoing-marketing-support'
+  weight = 46
+  [menu.footer.params]
+    group = 'Services'
+[[menu.footer]]
   name = 'Website Design'
   pageRef = '/services/website-design'
   weight = 10
@@ -164,13 +182,13 @@ capitalizeListTitles = false
 # header, so a key written below [params.address] becomes params.address.<key>
 # and the theme never sees it.
 [params]
-  description = 'Antilo Consulting and Antilo Design: coaching, consulting, design, and growth systems for entrepreneurs. Led by David DeBonis in Denver.'
+  description = 'We help owner-led businesses choose marketing priorities and carry them into websites, content, and customer follow-up. Marketing consulting and design from Denver.'
 
   # Company details. Nothing company-specific is hardcoded in the templates.
   companyName = 'Antilo'
   alternateNames = ['Antilo Consulting', 'Antilo Design', 'Antilo Consulting and Design']
   legalName = '' # Add the confirmed legal business name before launch.
-  tagline = 'Denver design & marketing'
+  tagline = 'Marketing consulting & design · Denver'
   # Add founded when the actual year is confirmed.
   email = '' # Add a confirmed public contact email.
   phone = ''
@@ -191,7 +209,7 @@ capitalizeListTitles = false
   logoDark = 'antelope_logo_nobg.png'
   favicon = '/antelope_logo_nobg.svg'
   appleTouchIcon = '/antelope_logo_nobg.png'
-  ogImage = ''      # Add an Antilo share image before launch.
+  ogImage = 'images/antilo_consulting_landscape_sunset.jpg' # Existing homepage image; metadata only.
 
   # Colour scheme: 'system', 'light' or 'dark'.
   defaultScheme = 'system'
@@ -219,15 +237,15 @@ capitalizeListTitles = false
   # Site-wide fallback for the closing call to action.
   [params.cta]
     eyebrow = 'Next step'
-    title = 'Let’s bring your next chapter into focus.'
-    text = 'An idea you’re exploring. A launch you’re planning. A business ready to grow. Bring us where you are, and we’ll help you work out the next step and put it into practice.'
+    title = 'What needs attention in your business?'
+    text = 'We can start with the decision you are facing, the project you need to finish, or the marketing you cannot keep up with. We’ll discuss the work involved and whether we can help.'
     primaryLabel = 'Start a conversation'
     primaryURL = '/contact/'
     secondaryLabel = 'Explore our services'
     secondaryURL = '/services/'
 
   [params.footer]
-    text = 'Coaching, consulting, design, and sustainable systems to help you design, build, grow, and scale your business. Based in Denver. With you from the first idea.'
+    text = 'We help owner-led businesses decide where to focus their marketing, find the words, and build the work. Consulting, writing, and design from Denver.'
     note = ''
 
   [params.seo]

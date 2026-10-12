@@ -1,16 +1,16 @@
 ---
 title: "Antilo"
-description: "Antilo Consulting and Antilo Design help entrepreneurs design, build, grow, and scale through coaching, consulting, design, and sustainable systems."
+description: "We help owner-led businesses decide where to focus their marketing, explain what makes them worth choosing, and put the work into practice."
 sections:
   -
     type: "hero"
-    title: "From your first idea to your next stage of growth."
-    eyebrow: "Coaching, consulting, design & growth systems"
-    lead: "We help aspiring entrepreneurs, entrepreneurs, small businesses, and startups design, build, grow, and scale their businesses. Through values-driven coaching, marketing and communications consulting, and design and systems support, we help you work out what comes next and put it into practice."
+    title: "We help you decide what your marketing needs next."
+    eyebrow: "Marketing consulting & design for owner-led businesses"
+    lead: "We work with business owners who need marketing expertise without a full-time team. We help you decide where to focus, put what makes your business worth choosing into words, and carry that direction into your website, content, and customer follow-up."
     image: "images/antilo_consulting_landscape_sunset.jpg"
-    imageAlt: "Placeholder photography for the Antilo homepage"
+    imageAlt: "Sunlight filtering through pine trees onto a grassy forest floor"
     primary:
-      label: "Tell us about your project"
+      label: "Start a conversation"
       url: "/contact/"
     secondary:
       label: "Explore our services"
@@ -28,17 +28,17 @@ sections:
         label: "With people who need you"
   -
     type: "logos"
-    title: "For people ready to start, build, or grow"
+    title: "For owners building a business they believe in"
     eyebrow: "Your kind of business"
   -
     type: "content"
-    title: "Your brand needs a story people can connect with."
+    title: "The marketing has to fit the business."
     eyebrow: "A different starting point"
   -
     type: "values"
     title: "How we help move your project or business forward."
     eyebrow: "Our offer"
-    lead: "Bring us an idea, a challenge, or a business ready for more. We shape support around where you are and what you want to build."
+    lead: "We connect the decisions behind your marketing with the work people actually see. We can help you choose a direction, build what it calls for, and keep it useful as the business changes."
     data: "offer"
   -
     type: "services"
@@ -53,7 +53,7 @@ sections:
     type: "work"
     title: "Different businesses. Thoughtful work behind each one."
     eyebrow: "Selected work"
-    lead: "Explore a brand and ecommerce transition for Colorado Sauce Company, and local storytelling and original research for TGB Flooring. Additional illustrative briefs show other ways we approach the work."
+    lead: "Explore our brand and ecommerce work for Colorado Sauce Company, local content and original research for TGB Flooring, and Shopify and email marketing work for Nano Bella."
     limit: 3
     feature: true
     link:
@@ -65,8 +65,8 @@ sections:
     eyebrow: "Meet Antilo"
     lead: "Starting or running a business asks you to care about a hundred things at once. We help you find direction, bring your ideas to life, and build ways of working that support your growth. You can come with a business in motion or an idea you’re still exploring."
     tone: "muted"
-    image: "images/about-studio.jpg"
-    imageAlt: "Placeholder photography for the Antilo about section"
+    image: "images/landscape_wilderness_early_autumn.jpg"
+    imageAlt: "Two hikers following a trail through golden grass beside red rock formations"
     points:
       -
         title: "Find the real story"
@@ -82,9 +82,9 @@ sections:
       url: "/about/"
   -
     type: "values"
-    title: "Mission-driven brands who want to make an impact"
+    title: "Owners who care about the business behind the brand"
     eyebrow: "Who we work with"
-    lead: "We’re drawn to businesses that make life better. Much of our work supports businesses in the health and wellness space. But we've also worked with restaurants, ecommerce companies, and local brick and mortar construction companies. We bring the same care to ever neighborhood business, new venture, or established company finding its next direction. **Our mission is to help you make the impact you dream about.**"
+    lead: "We work with owners whose knowledge and care are central to what they sell. Our experience includes health and wellness, ecommerce, and local services. We help make that knowledge visible in the marketing, whether the business is preparing to launch or has years of work behind it."
     data: "audiences"
   -
     type: "process"
@@ -98,9 +98,9 @@ sections:
     limit: 3
   -
     type: "pricing"
-    title: "A place to start. Room to grow."
+    title: "Start with a decision, a project, or work that needs regular attention."
     eyebrow: "Ways to work together"
-    lead: "You don’t need to arrive with a perfect brief. Bring the ambition, the sticking point, or the thing you’ve been meaning to fix. We’ll work out the right shape for it."
+    lead: "We offer a focused marketing review, a defined design project, or ongoing support. Each begins with an agreed question or scope, so we both know what the work needs to accomplish."
     tone: "muted"
     note: "Scope, schedule, and pricing are confirmed in a proposal. Advertising, printing, and other outside costs are quoted separately."
   -
@@ -112,12 +112,8 @@ sections:
     type: "cta"
 ---
 
-The systems that work for big, established brands don’t always translate to new ventures, small businesses, and startups. Larger companies can draw on bigger budgets, wider recognition, and more people. Then misconceptions grow that what worked with them will work for *(everyone*)
+We work with owners who know their business well but have limited time to explain it, promote it, and keep every piece of marketing up to date. The website may tell an old story. Customer questions may go unanswered. A promising idea may still need a reason for someone to choose it.
 
-**Our specialty is to help spark, launch, and scale ventures that can't afford a full-time marketing team.** Whether you’re exploring your first idea or running a business, your plan needs to work with the resources you actually have.
+We begin with those details. We look at what customers need to understand, what the business already does well, and where the current marketing falls short. Then we agree on what deserves attention first, with your time and budget in view.
 
-That starts with what makes your business worth paying attention to: the problem you want to solve, the care you bring, and the reason someone would choose you. A clear story gives those details a place in people’s minds and something to remember you by.
-
-With AI making content easier to produce and social feeds full of competing messages, publishing more can become a job of its own. We focus on giving you something meaningful to say, then connecting it across your website, content, and campaigns.
-
-Our approach is **story-driven and data-backed**. Customer questions, search research, and the performance information available help shape the direction. Your story gives the work its voice; evidence helps us decide where to focus and what to improve.
+Our work combines research, writing, design, and implementation. We can develop the recommendations and help carry them through: a clearer offer, a rebuilt website, useful content, or a better way to follow up with interested customers. We leave room for the things that make the business yours.

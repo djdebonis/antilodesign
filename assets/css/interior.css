@@ -1,2 +1,14 @@
 /* Loaded only on interior pages. Keep the homepage stylesheet unchanged. */
 .cta--inverse .eyebrow { color: var(--pc-text-inverse); }
+
+/* Long-form Journal content: keep navigation and wide tables usable on phones. */
+.journal-toc { margin-block: 0 2.5rem; padding: 1.25rem; border: var(--pc-border); border-radius: .5rem; }
+.journal-toc summary { cursor: pointer; font-weight: 700; }
+.journal-toc nav { margin-top: 1rem; }
+.journal-toc a { text-underline-offset: .2em; }
+.journal-toc li { margin-block: .4rem; }
+.article .prose { min-width: 0; }
+.article .prose table { display: block; max-width: 100%; overflow-x: auto; font-size: .95em; }
+.article .prose th, .article .prose td { min-width: 8rem; padding: .7rem; vertical-align: top; }
+.article .prose :is(h2, h3) { scroll-margin-top: 6rem; }
+.journal-entry > .eyebrow { margin-bottom: .75rem; }

@@ -1,5 +1,6 @@
 ---
 relatedWork: ["/work/tgb-flooring/"]
+
 title: "SEO"
 weight: 40
 icon: "compass"
@@ -11,8 +12,8 @@ highlights:
   - "Search intent and keyword research"
   - "On-page content and metadata"
   - "Technical priorities and reporting"
-engagement: "A focused project or ongoing support, scoped around your priorities."
-timeline: "Schedule confirmed after we review the scope and available content."
+engagement: "An initial review, improvements to key pages, or ongoing content and search support."
+timeline: "We separate the time needed to make changes from the longer period needed to evaluate search performance."
 benefits:
   -
     title: "Find relevant opportunities"
@@ -22,34 +23,32 @@ benefits:
     text: "Match each important page to a distinct topic instead of asking the homepage to do everything."
   -
     title: "Address technical obstacles"
-    text: "Review crawlability, internal links, redirects, and performance priorities within the agreed scope."
+    text: "Find problems with crawlability, internal links, redirects, and performance, then agree on which to address."
   -
     title: "Measure business relevance"
     text: "Look at relevant search traffic and inquiries rather than treating rankings as the only measure."
 process:
   -
-    title: "Understand"
-    text: "Review the business, audience, existing materials, and goals."
-    duration: "Discovery"
+    title: "Understand the search"
+    text: "Research the questions your customers ask and review how your existing pages answer them."
+    duration: "Research and review"
   -
-    title: "Plan"
-    text: "Agree on priorities, deliverables, and a direction for the work."
-    duration: "Planning"
+    title: "Choose the priorities"
+    text: "Identify the pages and technical issues worth addressing first, based on relevance to the business."
+    duration: "Page and content plan"
   -
-    title: "Create"
-    text: "Develop the work and refine it with your feedback."
-    duration: "Design and delivery"
+    title: "Improve the website"
+    text: "Develop useful content and address the agreed priorities in page structure, metadata, and internal links."
+    duration: "Content and implementation"
   -
-    title: "Put it to work"
-    text: "Prepare the agreed handoff and identify the next useful improvements."
-    duration: "Launch and review"
+    title: "Watch and learn"
+    text: "Review search visibility, relevant visits, and inquiries to decide what needs more attention."
+    duration: "Measurement and refinement"
 deliverables:
   - "SEO review and prioritized recommendations"
   - "Keyword and page mapping"
   - "On-page optimization plan"
   - "Content opportunities and reporting framework"
-aliases:
-  - "/services/digital-strategy/"
 ---
 
 ## Start with the question your customer is asking.

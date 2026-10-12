@@ -26,8 +26,13 @@ hugo --environment production --minify --cacheDir /tmp/antilo-hugo-cache
 Start a local preview:
 
 ```sh
-hugo server --bind 127.0.0.1 --baseURL http://localhost:1313/ --cacheDir /tmp/antilo-hugo-cache
+hugo server --bind 127.0.0.1 --baseURL http://localhost:1313/ --disableFastRender --cacheDir /tmp/antilo-hugo-cache
 ```
+
+If a running preview reports a `slice bounds out of range` error after content edits,
+stop it with Ctrl+C and restart it with the command above. A fresh build can
+confirm whether the error is limited to the preview process. `--disableFastRender`
+enables full page rebuilds on changes; it does not change production output.
 
 Open http://localhost:1313/. The explicit temporary cache directory also works
 inside restricted development environments. Generated output is ignored by Git.

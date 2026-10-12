@@ -79,3 +79,24 @@ The conversion result is attributed to David’s account; analytics, baseline ra
 measurement dates, and an experiment design were not supplied. No revenue claim,
 specific flow types, company-wide strategy ownership, or business outcome is
 inferred. An approved historical screenshot would be useful if supplied later.
+
+## Journal completion and placeholder removal — October 9, 2026
+
+Expanded all eight existing posts (URLs and aliases retained) for Denver small
+businesses and startups. Each has a distinct subject, descriptive title and
+summary, practical guidance, relevant internal links, and an October 9 lastmod.
+Original publication dates remain unchanged. Google’s primary documentation is
+linked where local ranking, doorway pages, or URL migrations are discussed.
+Project examples are limited to supplied scope and evidence; no new metrics,
+client anecdotes, or local office locations were invented.
+
+At David’s subsequent request to remove placeholders, the six illustrative briefs
+were moved to `docs/archived-project-concepts/`. Their routes and older aliases
+redirect to `/work/`; they are absent from the sitemap and published content.
+This supersedes the earlier instruction to retain their homepage card. The
+homepage now shows only its two existing real cases, and the single sentence
+promoting illustrative briefs was removed. All other homepage copy and shared
+styles remain unchanged. New interior-only cases still do not enter its query.
+
+The clean production build passes, with internal links, images, JSON-LD, article
+headings, and retired routes checked. No deployment was performed.

@@ -7,13 +7,15 @@ industry: "Ecommerce"
 category: "Shopify & Email Marketing"
 interiorLead: "A product page and an email meet people at different moments. At Nano Bella, our work connected those moments through a complete Shopify store, optimized product pages, and email flows built in Klaviyo."
 headline: "Shopify development · Product-page optimization · Klaviyo"
-interiorOnly: true
+interiorOnly: false
 interiorPortfolio: true
-interiorOrder: 5
-weight: 100
+interiorOrder: 3
+weight: 3
 technologies:
   - "Shopify"
   - "Klaviyo"
+  - "Adobe Illustrator"
+  - "Wordpress"
 services:
   - "/services/website-design"
   - "/services/digital-marketing"
@@ -21,15 +23,15 @@ services:
 
 ## The role behind the work
 
-This project reflects David DeBonis’s work as **Shopify Manager and Email Marketer at Nano Bella**. It is part of his professional experience, rather than a separate Antilo client engagement. The scope described here focuses on the work he built and managed: the Shopify store, its product pages, and the Klaviyo email systems.
+One of my first clients I received in my marketing career was Nano Bella. It was at a time that I was out of work, and a family friend approached me who was starting his business. He told me he needed help with the digital aspects of launching his business, and offered me some work helping him to launch the business. 
 
-Those responsibilities brought website development and customer communication into the same place. We could work on how products were presented in the store and how email supported the experience around it, giving both parts attention as the work developed.
+At the onset, the ecommerce side of things was managed in a proprietary website and ecommerce platform that was integrated with Wordpress. I learned this software, and this initial job was where I learned a lot of the foundations about ecommerce, including DTC selling and marketing, third party logistics integrations, and more. But, after some time, the business model adjusted and we realized that this platform was limiting our needs. 
+
+I had spent some time learning Shopify that year, and I proposed transitioning to Shopify. I 
 
 ## Building the Shopify store
 
-We built the entire Shopify store for Nano Bella. The work established the online storefront as the place where people could explore the products and make a purchase, with product pages forming a central part of that experience.
-
-Building the store also gave us a foundation to keep improving. Once the website was in place, our attention extended to how effectively its product pages supported the decision to buy. That became a focused area of work within the broader Shopify management role.
+We built the entire Shopify store for Nano Bella, then continued working on the shopping experience through the Shopify management role. Product-page optimization and email marketing became two connected parts of that work: helping people decide what to buy, and giving the business a way to stay in touch.
 
 ## Improving the product pages
 
@@ -41,15 +43,9 @@ The store and its product pages were one part of the experience. Email provided 
 
 ## Developing the Klaviyo email systems
 
-We developed full email flows and systems in Klaviyo, giving Nano Bella a structured foundation for email marketing alongside the Shopify store. The scope included building the flows themselves and the systems supporting that communication.
+We developed full email flows and supporting systems in Klaviyo alongside the Shopify store. This extended the work beyond the storefront into the email communication around the products.
 
-That work brought an ongoing dimension to the project. The storefront gave people somewhere to explore and purchase; email created a way to continue communicating around the products. Developing both meant our responsibilities covered the website and the messages connected to it.
-
-## What the project brings together
-
-Nano Bella brought Shopify development, product-page optimization, and email marketing into one hands-on role. We built the store, worked to improve its conversion rate, and developed the Klaviyo flows and systems that supported email communication.
-
-The project illustrates David’s ability to carry work from a full website build into the practical tasks of managing and improving an ecommerce experience.
+The role combined the initial store build with ongoing Shopify management, product-page improvements, and email marketing. It reflects the hands-on work of developing an ecommerce website and continuing to improve how it serves the business.
 
 ## Work delivered
 

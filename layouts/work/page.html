@@ -109,6 +109,7 @@
         {{ with .Params.testimonial }}
           <h2 class="case-sidebar__heading">{{ i18n "clientWords" }}</h2>
           <figure class="testimonial">
+            {{ partial "testimonial-stars.html" . }}
             <blockquote class="testimonial__quote">{{ .quote }}</blockquote>
             <figcaption class="testimonial__footer">
               <span class="testimonial__name">{{ .name }}</span>

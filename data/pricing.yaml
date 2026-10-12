@@ -1,38 +1,31 @@
--
-  name: "Coaching & direction"
-  price: "Let’s scope it"
-  unit: "Coaching & consulting"
-  text: "Make sense of your options and decide what deserves attention first."
+- name: "Marketing review & priorities"
+  text: "For owners deciding what to change before committing to a website, campaign, or larger marketing budget. We investigate one agreed business question and recommend a sequence of work."
   features:
-    - "Values, vision, and business priorities"
-    - "Idea, audience, and message exploration"
-    - "Recommended next steps"
-  cta:
-    label: "Talk about your needs"
-    url: "/contact/"
--
-  name: "Website or design project"
-  price: "Let’s scope it"
-  unit: "Defined project scope"
-  text: "Create a website, refresh your brand, or develop a set of marketing materials."
-  features:
-    - "Agreed deliverables and scope"
-    - "Design and content direction"
-    - "Review and handoff plan"
-  cta:
-    label: "Talk about your needs"
-    url: "/contact/"
+    - "A working conversation about the business and the decision"
+    - "Review of agreed pages, materials, and available evidence"
+    - "Written findings and priorities, with reasons for each recommendation"
+    - "A review conversation to decide what to do next"
   featured: true
-  badge: "A focused starting point"
--
-  name: "Ongoing growth support"
-  price: "Let’s scope it"
-  unit: "Recurring scope"
-  text: "Build and implement sustainable systems alongside ongoing coaching, marketing, and creative support."
-  features:
-    - "Growth priorities and repeatable processes"
-    - "Creative and content support"
-    - "SEO or local SEO as scoped"
   cta:
-    label: "Talk about your needs"
+    label: "See how the review works"
+    url: "/services/marketing-consulting/"
+- name: "Website & design project"
+  text: "For owners who know what needs to be made. We define the pages or materials, develop the copy and design, and prepare the finished work for use."
+  features:
+    - "An agreed list of pages, assets, and responsibilities"
+    - "Content and design developed around your customers’ questions"
+    - "Review rounds and milestones set in the proposal"
+    - "Launch or production handoff, with guidance for using the work"
+  cta:
+    label: "Discuss a defined project"
     url: "/contact/"
+- name: "Ongoing marketing support"
+  text: "For owners who need someone to help keep the marketing moving. We agree on a recurring scope, do the work, and review what deserves attention next."
+  features:
+    - "A shared list of priorities and who is responsible for each"
+    - "An agreed mix of content, email, website, or search work"
+    - "Regular review of customer response and available performance data"
+    - "A record of completed work, decisions, and next steps"
+  cta:
+    label: "Explore ongoing support"
+    url: "/services/ongoing-marketing-support/"

@@ -1,0 +1,84 @@
+ANTILO CONSULTING | MARKETING SCOPE AND BUDGET WORKSHEET
+Companion: https://antilodesign.com/blog/budgeting-for-design-and-marketing/
+Use current estimates for your actual scope. No amounts below are prescribed.
+
+1. PURPOSE
+Business stage:
+Constraint we are investigating:
+Evidence for that constraint:
+What remains an assumption:
+Capability the project must create:
+Acceptance criteria (observable checks, not just deliverable names):
+Who checks and accepts the work:
+Planning period:
+
+2. SCOPE
+Included pages / deliverables / functions:
+Excluded or deferred work:
+Existing source material:
+Missing inputs / owner / due date:
+Decision-maker and review availability:
+
+3. PLANNED COSTS FOR THE PERIOD (repeat each line as needed)
+Creation: item / amount or UNKNOWN / source / date / included revisions
+Operation: item / billing frequency / cost allocated within planning period / account owner
+Distribution: item / amount / intended audience / destination
+Identified uncertainty: issue / allowance / basis / approval owner
+
+Creation subtotal:
+Operation subtotal within period:
+Distribution subtotal:
+Allowance subtotal:
+TOTAL PLANNED COST FOR THE PERIOD:
+Costs continuing beyond the period:
+Tax or other applicable charges still to confirm:
+PAYMENT SCHEDULE: item / cash amount due / due date / trigger
+Annual prepayments or deposits differing from period allowances:
+
+4. INTERNAL CAPACITY
+Task / person / estimated hours / due date:
+Total internal hours:
+Availability confirmed:
+Scope or schedule changes needed:
+
+5. COMPARE PROPOSALS (repeat per provider)
+Provider and proposal date:
+Deliverables:
+Inputs we must supply:
+Revision process:
+Recurring costs:
+Acceptance and handoff:
+Support after launch:
+Account and asset ownership:
+Uncertainties / questions (unknown costs remain UNKNOWN, not zero):
+Missing work needed for the same scope and its separate estimate:
+Comparable total including that work:
+Estimated owner hours, recorded separately:
+Account, domain, asset and data handoff if work ends:
+
+6. TRADEOFFS
+If reducing scope, what can wait:
+Consequence of each deferral:
+What must remain to protect the customer path:
+If expanding scope, which observed constraint it addresses:
+
+7. CHANGE RECORD (repeat for each request)
+Request and reason:
+Correction against agreed criteria, or new requirement:
+Work added, removed or exchanged:
+Effect on fee and timing:
+Approve now, exchange scope, or defer:
+Approver and approval date:
+
+8. REVIEW PLAN
+Completion checks:
+Effectiveness observations to collect:
+Counts and denominators for any rates:
+Person responsible for inquiries and follow-up:
+First review date:
+Decision the review should inform:
+Conditions to verify before spending on expansion:
+Distribution test: audience / destination / spending limit / question
+Conditions to pause or repair:
+Evidence that would support continuing:
+Insufficient evidence or unknowns to retain:

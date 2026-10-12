@@ -17,7 +17,7 @@ We’re especially interested in health, wellness, and the outdoors. We also enj
 
 ## Work directly with David
 
-Antilo is led by David DeBonis. You work directly with the person asking the questions, shaping the message, and building the work. That keeps the conversation close to the project and gives the details somewhere to land.
+Antilo is led by David DeBonis. You work directly with the person asking the questions, shaping the message, and building the work. You can talk through an idea with him, see how it develops, and ask questions as the work takes shape.
 
 [Meet David](/team/)
 

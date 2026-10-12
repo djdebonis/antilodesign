@@ -4,9 +4,9 @@ interiorOrder: 1
 interiorLead: "A new name had to make sense everywhere people met the business. As Yampa Valley Sauce Company became Colorado Sauce Company, we carried the updated branding through the labels, the website, and the ways customers discovered and bought the products."
 interiorPortfolio: true
 title: "Colorado Sauce Company"
-image: "images/colorado_sauce_company_featured1.jpeg"
-imageAlt: "Colorado Sauce Company’s redesigned labels and storefront"
-linkTitle: "A new chapter, rooted in Yampa Valley"
+image: "images/colorado_sauce_company_colored_logos.png"
+imageAlt: "Colorado Sauce Company logo with two peppers. Text says 'COLORADO SAUCE COMPANY' and 'Get Sauced.' colored letters on the 'COLORADO'"
+linkTitle: "A new chapter: Repainting an Established Brand"
 client: "Colorado Sauce Company"
 industry: "Food & beverage"
 category: "Branding & Ecommerce"
@@ -16,9 +16,10 @@ description: "How we helped Yampa Valley Sauce Company become Colorado Sauce Com
 lead: "From Yampa Valley roots to a broader Colorado identity, we brought the brand’s next chapter to life across its labels, online store, and customer communications."
 summary: "A brand transition carried through redesigned labels, a complete move from Wix to Shopify, and content that connects the sauces to the meals and moments they belong in."
 headline: "Brand transition · Label redesign · Shopify rebuild"
-challenge: "As Yampa Valley Sauce Company became Colorado Sauce Company, the business needed a broader identity that preserved its connection to home. That change needed to carry through the packaging, website, shopping experience, and ongoing customer communications."
-solution: "We connected the brand story and redesigned labels with a complete Shopify ecommerce rebuild, carefully designed product pages, a store locator, email marketing flows, newsletter opt-ins, and search-focused recipe content."
+challenge: "Yampa Valley Sauce Company came to us when they were starting their transition to Colorado Sauce Company. They needed new everything: new logos, new labels, new emails, new websites. As Yampa Valley Sauce Company became Colorado Sauce Company, the business needed a broader identity that preserved its connection to home. That change needed to carry through the packaging, website, shopping experience, and ongoing customer communications."
+solution: "We connected the brand story with updated logos, redesigned and improved labels, a Shopify ecommerce rebuild, carefully designed product pages, a store locator, email marketing flows, newsletter opt-ins, and search-focused recipe content."
 technologies:
+  - "Adobe Illustrator"
   - "Shopify"
   - "Liquid"
   - "CSS"
@@ -32,16 +33,27 @@ services:
 
 ## From Yampa Valley to Colorado Sauce Company
 
-A new name opened up a bigger story for the business. Yampa Valley Sauce Company reached out to us when they wanted to rebrand, expand, and evolve into [Colorado Sauce Company](https://coloradosaucecompany.com).
+A new name opened up a bigger story for the business. 
 
-The challenge here was to expand into the new, broader identity while keeping its origins close. The Yampa Valley name still had a place: as a heritage line within the wider Colorado Sauce Company brand.
+Clay at Yampa Valley Sauce Company reached out to us when they wanted to rebrand, expand, and evolve into [Colorado Sauce Company](https://coloradosaucecompany.com).
 
-Before anything else, we worked with the brand's logo. It had to look similar enough for recognition, but it had to represent the new brand. After that, we expanded our work into digital and print asset design.
+The challenge here was clear: Yampa Valley Sauce Company was an established brand that had been operating in Colorado for over a decade. 
+- The brand was already on shelves in a variety of large retailers such as Safeway and Natural Grocers. 
+- Clay had been hosting a booth at farmers markets across the city. 
+- Although their marketing assets were not well established, people *knew* Yampa Valley Sacue Company.
+
+**How could we support their rebrand and build up their marketing assets without detracting from the 12+ years of work that had gone into building the brand?**
+
+Thus, our mission was to expand into the new, broader identity while keeping its origins close. 
+
+The Yampa Valley name still had a place: as a heritage line within the wider Colorado Sauce Company brand.
+
+Before anything else, we worked with the brand's logo. It had to look similar enough for recognition, but it had to represent the new brand. After that, we expanded our work into building digital and print assets. 
 
 
 ## Bringing the new identity to every label
 
-The packaging was a central part of that change. In addition to redesigning all of the product labels, we also further cultivated the label's visual design. We added in color, improved communication, and clarified nutrition information. What's more, we added special branded barcodes and QR codes to carry the pepper, hot sauce branding. We also created QR codes to the website so that retail customers could learn more about the brand through the updated digital presence. 
+The packaging was a central part of this transition. In addition to redesigning all of the product labels, we also further cultivated the label's visual design. We added in color, improved communication, and clarified nutrition information. What's more, we added special branded barcodes and to contribute to the pepper-focused, hot sauce branding. We also created QR codes to the website so that retail customers could learn more about the brand through the updated digital presence. e
 
 The labels gave the transition a physical presence. The new name needed to feel like it belonged to the products, with the Yampa Valley heritage line understood as part of the broader family. We approached the redesign as one connected range, bringing the brand story onto the products themselves.
 
@@ -49,23 +61,21 @@ With that direction established, we carried the same thinking into the place whe
 
 ## Rebuilding the website around ecommerce
 
-The website needed to do more for the business. We rebuilt it on Shopify, moving off Wix and creating a store with cases, offers, discounts, and customer accounts. We carefully designed the product pages, set up newsletter opt-ins and email marketing flows, and created search-focused recipe pages featuring the sauces. Each piece gave people another way to find the products, understand them, and bring them into their own kitchens.
+The website needed to do more for the business. When we arrived, there was a site, but it was merely a place to store basic product information. Shop integrations had been disconnected, and so the Direct to Consumer (DTC) pathway was essentially shut off.
+
+We rebuilt the story on Shopify, moving off Wix and creating a store with cases, offers, discounts, and customer accounts. We carefully designed the product pages to include information such as FAQs and sauce pairing ideas. We additionally set up newsletter opt-ins and email marketing flows, and created search-focused recipe pages featuring the sauces. Each piece gave people another way to find the products, understand them, and bring them into their own kitchens.
 
 We worked with Shopify’s Liquid templates and CSS to refine the site, including page-specific header styling and the way a transparent header interacted with the About Us page. That attention connected the broader rebuild to the details of individual pages, helping the storytelling and storefront sit together within the same design.
 
-## Giving each product its own considered page
-
-Within that storefront, we carefully designed each product page. The broader brand story established who Colorado Sauce Company was; the product pages brought the focus to what someone could bring home.
-
-We treated those pages as a core part of the project. Each was an opportunity to carry the updated identity into the buying decision, connecting the product presentation with the surrounding store and promotional content.
-
-That work also created a destination for the marketing beyond the website. An email could introduce a gift set, and a recipe could give someone a reason to try a sauce, with the product pages continuing the conversation.
-
 ## Grounding in the Original Brand
 
-We developed website copy that made the relationship between the former Yampa Valley Sauce Company and the new Colorado Sauce Company understandable—connecting the two names and giving the heritage line a clear role in the company’s next chapter. The story brought together its Colorado origins, small-batch products, and the experiences the sauces were made to be part of: food, memories, and gathering around a table.
+We developed website copy that made the relationship between the former Yampa Valley Sauce Company and the new Colorado Sauce Company understandable—connecting the two names and giving the heritage line a clear role in the company’s next chapter. For example, on the [Colorado Sauce Company About Page](https://coloradosaucecompany.com/pages/about-us) we narrated some of the story. The story brought together its Colorado origins, small-batch products, and the experiences the sauces were made to be part of: food, memories, and gathering around a table.
 
-That story gave the transition a thread we could carry through the rest of the work. From a label in someone’s hand to a product page on their phone, each part needed to express the updated brand while preserving the connection to where it began.
+In addition to emphasizing the story, we also ensured that clear branding ties didn't detract from established brand recognition. First, we ensured that important customer touchpoints (such as the Display on Google) showed information about the former name allowing a smooth transition as the new name began to take hold.
+
+![view of the Colorado Sauce Company Website from search engine Google, emphasizing the title change from 'Yampa Valley Sauce Company' to 'Colorado Sauce Company'](images/colorado_sauce_company_google_search.png)
+
+We also spent extensive time and energy thinking though desinging new logos, labels, and other assets in a way that would ensure product- and brand-recognition by existing customers and prospects while integrating the updated brand identity.
 
 ## Connecting the online experience to local shelves
 
@@ -97,7 +107,7 @@ The result was a connected body of brand, design, content, and technical work su
 
 ## Work delivered
 
-- Brand messaging and label redesign
-- Wix-to-Shopify rebuild and product pages
+- Brand messaging and logo/label redesign
+- Full Shopify website build with product offers, email integrations, testimonials, and more
 - Store locator, newsletter opt-ins, and email flows
 - Promotional email and search-focused recipes
