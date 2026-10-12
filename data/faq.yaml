@@ -1,11 +1,11 @@
 -
   group: "general"
   question: "What does Antilo do?"
-  answer: "We help owner-led businesses decide where to focus their marketing and carry the direction into websites, content, and customer follow-up. We offer a focused marketing review, defined design projects, ongoing support, and separate coaching conversations around business decisions."
+  answer: "We help businesses decide where to focus their marketing and carry the direction into websites, content, and customer follow-up. We offer a focused marketing review, defined design projects, ongoing support, and separate coaching conversations around business decisions."
 -
   group: "general"
   question: "Are you based in Denver?"
-  answer: "Yes. Antilo is based in Denver, Colorado. Tell us where your customers are so we can plan around the market you serve."
+  answer: "Yes. Antilo is based in Denver, Colorado. However, we do serve clients outside the Denver area. We are currently working with a client in the United Kingdom, and we are still implementing Local SEO for their business. Tell us where your customers are so we can plan around the market you serve!"
 -
   group: "general"
   question: "Can we start with a small project?"
@@ -13,7 +13,7 @@
 -
   group: "general"
   question: "Do you guarantee search rankings?"
-  answer: "No. SEO and local search depend on many factors. We focus on relevant improvements and clear reporting, without promising a particular position."
+  answer: "No. SEO and local search depend on many factors. We focus on relevant improvements and clear reporting, without promising a particular position. Our clients find that the work we do improves their search visibility and leads to more inquiries, but we cannot guarantee a specific ranking."
 -
   group: "pricing"
   question: "How much will a project cost?"
@@ -25,11 +25,11 @@
 -
   group: "process"
   question: "Can you work with our existing brand or website?"
-  answer: "We can discuss what is worth keeping, what needs attention, and whether a refresh or a larger change suits the goal."
+  answer: "Yes. Some of our clients have no website when they meet us, but many of our clients already have an established presence. We can discuss what is worth keeping, what needs attention, and whether a refresh or a larger change suits the goal. If we find that your current website is suitable for the growth you want to acheive, we can absolutely work with that."
 -
   group: "process"
   question: "How long will the work take?"
-  answer: "Timing depends on the scope, available content, approvals, and production requirements. We confirm a schedule as part of planning."
+  answer: "Timing depends on the scope, available content, approvals, and production requirements. We confirm a schedule as part of planning. We can work with a tight tineline when the scope is clear and the content is ready. We can also plan for a longer timeline when the work is more complex or when content needs to be developed."
 -
   group: "process"
   question: "What happens after launch?"
@@ -44,7 +44,7 @@
   answer: "Start with the problem. Whether inquiries have slowed, the website feels dated, or the marketing looks inconsistent, that gives us a useful place to begin."
 - group: "general"
   question: "Do you only work with health and wellness businesses?"
-  answer: "Health and wellness are a particular focus, and our work is open to other industries. We’re interested in what makes your business valuable and how to help people understand it."
+  answer: "No. We spend a lot of time working with health and wellness businesses, but our work is not limited to this scope. We believe that, at the end of the day, every business is a health and wellness business when it has a values-driven mission and supports the well-being of its customers. We’re interested in what makes your business valuable and how we can help people understand it."
 - group: "general"
   question: "Is Antilo a fit for an early-stage business?"
   answer: "Yes. We can help you examine an idea through coaching or develop the message and materials for a launch. We agree on a useful first piece of work based on what you know about the business and what still needs to be tested."
