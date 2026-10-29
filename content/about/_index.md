@@ -9,6 +9,8 @@ There’s a lot that goes into a small business that never makes it onto the web
 
 We bring writing, design, research, and website development together around that understanding. The work might begin with a clearer message, a new online store, or a plan for reaching people nearby. We look at how those pieces fit into the business, then carry the work through to something you can use.
 
+{{< personal-photo "david_debonis_entrepreneurship.JPG" >}}
+
 ## Start with the business in front of us
 
 A good idea can still need direction. An established business can still need a better way to explain itself. We work with people at both stages, paying attention to their goals, their resources, and the kind of business they want to build. There should be a reason behind what we recommend.
@@ -18,6 +20,8 @@ We’re especially interested in health, wellness, and the outdoors. We also enj
 ## Work directly with David
 
 Antilo is led by David DeBonis. You work directly with the person asking the questions, shaping the message, and building the work. You can talk through an idea with him, see how it develops, and ask questions as the work takes shape.
+
+{{< personal-photo "david_debonis_studious.JPG" >}}
 
 [Meet David](/team/)
 

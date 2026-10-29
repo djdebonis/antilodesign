@@ -1,6 +1,7 @@
 {{ define "main" }}
   {{ partial "interior-header.html" . }}
   {{ $member := index hugo.Data.team 0 }}
+  {{ $content := partial "utils/split-body.html" . }}
   <section class="section">
     <div class="container founder-profile">
       <figure class="founder-profile__portrait">
@@ -16,8 +17,13 @@
           <p>{{ $member.role }}</p>
         </figcaption>
       </figure>
-      <div class="prose founder-profile__bio">{{ .Content }}</div>
+      <div class="prose founder-profile__bio">{{ $content.intro }}</div>
     </div>
+    {{ with $content.body }}
+      <div class="container">
+        <div class="prose founder-profile__body">{{ . }}</div>
+      </div>
+    {{ end }}
   </section>
   {{ partial "cta.html" . }}
 {{ end }}

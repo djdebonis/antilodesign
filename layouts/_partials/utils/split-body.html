@@ -1,0 +1,4 @@
+{{- /* Split rendered content at an optional body-break shortcode.
+     Without a marker, keep all content in the introduction. */ -}}
+{{- $parts := split (string .Content) "<!-- antilo-body-break -->" -}}
+{{- return (dict "intro" (index $parts 0 | safeHTML) "body" (delimit (after 1 $parts) "" | safeHTML)) -}}

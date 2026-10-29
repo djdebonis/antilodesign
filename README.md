@@ -51,7 +51,25 @@ No deployment workflow has been added. If one is added later, its checkout
 step must include `with: { submodules: recursive }` so the theme is available.
 No deployment or DNS changes were made.
 
-## Contact form
+## Team page layout
+
+Personal photos retain their original filenames in `assets/images/`. Their alt
+text and placement notes live in `data/personal_photos.json`. Insert one with
+`{{< personal-photo "david_debonis_studious.JPG" >}}` on its own line between
+paragraphs. This uses the existing responsive image pipeline, preserves the full
+composition, and limits tall photos to a comfortable reading height. The Team
+page's opening portrait remains configured separately in `data/team.yaml`.
+
+The team page supports a portrait beside an introduction, followed by a centered
+reading column below both. Place `{{< body-break >}}` on its own line between
+Markdown blocks in `content/team/_index.md` to choose where the introduction ends.
+Everything after it becomes the lower body; the marker displays no text. Do not
+place it inside a list, quote, or other Markdown block. Use one marker per page.
+Without a marker, the entire biography remains beside the portrait as before.
+Other templates can opt into the same behavior through `utils/split-body.html`,
+which returns `intro` and `body` HTML. The theme itself is not modified.
+
+## Contact form behavior
 
 The contact form uses native HTML POST to the Formspree endpoint configured in
 `params.contactForm.action` in `hugo.toml`. The local override is

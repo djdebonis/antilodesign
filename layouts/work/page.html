@@ -42,8 +42,9 @@
     </dl>
   </div>
 
+  {{ $hasSidebar := or .Params.stats .Params.technologies .Params.services .Params.testimonial }}
   <section class="section">
-    <div class="container split split--aside split--sticky">
+    <div class="container case-layout{{ if $hasSidebar }} case-layout--with-sidebar{{ end }}">
       <div>
         {{ with .Params.challenge }}
           <div class="case-block">
@@ -75,6 +76,7 @@
         {{ end }}
       </div>
 
+      {{ if $hasSidebar }}
       <aside class="case-sidebar">
         {{ with .Params.stats }}
           <h2 class="case-sidebar__heading">{{ i18n "impact" }}</h2>
@@ -118,6 +120,7 @@
           </figure>
         {{ end }}
       </aside>
+      {{ end }}
     </div>
   </section>
 

@@ -1,0 +1,13 @@
+{{- $name := .Get 0 -}}
+{{- with index hugo.Data.personal_photos $name -}}
+  <figure class="personal-photo">
+    {{ partial "utils/image.html" (dict
+      "page" $.Page
+      "path" (printf "images/%s" $name)
+      "alt" .alt
+      "widths" (slice 480 768 1200)
+      "sizes" "(min-width: 46rem) 40rem, 100vw") }}
+  </figure>
+{{- else -}}
+  {{- errorf "Unknown personal photo %q on %s" $name .Page.RelPermalink -}}
+{{- end -}}

@@ -1,4 +1,20 @@
 /* Loaded only on interior pages. Keep the homepage stylesheet unchanged. */
+.personal-photo { margin-block: clamp(1.5rem, 4vw, 3rem); }
+.personal-photo img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 32rem;
+  margin-inline: auto;
+  border-radius: var(--pc-radius);
+}
+
+.founder-profile__body {
+  margin-inline: auto;
+  margin-block-start: clamp(2rem, 5vw, 5rem);
+}
+
 .cta--inverse .eyebrow { color: var(--pc-text-inverse); }
 
 /* Long-form Journal content: keep navigation and wide tables usable on phones. */
@@ -12,3 +28,22 @@
 .article .prose th, .article .prose td { min-width: 8rem; padding: .7rem; vertical-align: top; }
 .article .prose :is(h2, h3) { scroll-margin-top: 6rem; }
 .journal-entry > .eyebrow { margin-bottom: .75rem; }
+
+/* Case studies: give the story more room without changing shared split layouts. */
+.case-layout {
+  display: grid;
+  gap: var(--pc-space-xl);
+  align-items: start;
+}
+.case-layout > * { min-width: 0; }
+.case-layout > .case-sidebar { overflow-wrap: anywhere; }
+@media (min-width: 62rem) {
+  .case-layout--with-sidebar {
+    grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+    gap: var(--pc-space-2xl);
+  }
+  .case-layout--with-sidebar > .case-sidebar {
+    position: sticky;
+    top: calc(var(--pc-header-height) + var(--pc-space-md));
+  }
+}

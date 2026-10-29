@@ -27,6 +27,16 @@ sections:
         value: "Connect"
         label: "With people who need what you offer"
   -
+    type: "work"
+    title: "Different businesses. Thoughtful work behind each one."
+    eyebrow: "Selected Case Studies"
+    lead: "Explore the projects we have worked on with past and present clients. Discvover our brand and ecommerce work for Colorado Sauce Company, local content and Search Engine Optimization (SEO) for TGB Flooring, and Shopify and email marketing for Nano Bella."
+    limit: 3
+    feature: true
+    link:
+      label: "Explore our work"
+      url: "/work/"
+  -
     type: "logos"
     title: "For founders building something they believe in"
     eyebrow: "Your kind of business"
@@ -49,16 +59,6 @@ sections:
     link:
       label: "Explore all services"
       url: "/services/"
-  -
-    type: "work"
-    title: "Different businesses. Thoughtful work behind each one."
-    eyebrow: "Selected Case Studies"
-    lead: "Explore the projects we have worked on with past and present clients. Discvover our brand and ecommerce work for Colorado Sauce Company, local content and Search Engine Optimization (SEO) for TGB Flooring, and Shopify and email marketing for Nano Bella."
-    limit: 3
-    feature: true
-    link:
-      label: "Explore our work"
-      url: "/work/"
   -
     type: "about"
     title: "Your ambition deserves thoughtful company."
