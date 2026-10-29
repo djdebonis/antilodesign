@@ -1,5 +1,9 @@
 - name: "Owner-led businesses"
-- name: "Health & wellness"
-- name: "Local services"
-- name: "Independent brands"
+- name: "Mission-driven organizations"
+- name: "Local brands"
+- name: "Independent projects"
+- name: "Small businesses"
+- name: "Health and wellness businesses"
+- name: "Lifestyle brands"
 - name: "New ventures"
+

@@ -1,12 +1,12 @@
 ---
 title: "Antilo"
-description: "We help owner-led businesses decide where to focus their marketing, explain what makes them worth choosing, and put the work into practice."
+description: "We help founder-led businesses and organizations decide where to focus their marketing, explain what makes them the best choice, and put the work into practice."
 sections:
   -
     type: "hero"
     title: "We help you decide what your marketing needs next."
-    eyebrow: "Marketing consulting & design for owner-led businesses"
-    lead: "We work with business owners who need marketing expertise without a full-time team. We help you decide where to focus, put what makes your business worth choosing into words, and carry that direction into your website, content, and customer follow-up."
+    eyebrow: "Marketing consulting & design for founder-led businesses"
+    lead: "We work with business owners, organizational leaders, and project managers who need marketing, communications, and design expertise without hiring a full-time employee or team. We help you decide where to focus, put your offer into words, and carry that direction into your website, content, and customer/client follow-up."
     image: "images/antilo_consulting_landscape_sunset.jpg"
     imageAlt: "Sunlight filtering through pine trees onto a grassy forest floor"
     primary:
@@ -19,16 +19,16 @@ sections:
     facts:
       -
         value: "Clarify"
-        label: "What makes you matter"
+        label: "Your brand's story, strategy, and offer"
       -
         value: "Create"
         label: "A presence that feels like you"
       -
         value: "Connect"
-        label: "With people who need you"
+        label: "With people who need what you offer"
   -
     type: "logos"
-    title: "For owners building a business they believe in"
+    title: "For founders building something they believe in"
     eyebrow: "Your kind of business"
   -
     type: "content"
@@ -38,7 +38,7 @@ sections:
     type: "values"
     title: "How we help move your project or business forward."
     eyebrow: "Our offer"
-    lead: "We connect the decisions behind your marketing with the work people actually see. We can help you choose a direction, build what it calls for, and keep it useful as the business changes."
+    lead: "We meet you where you're at. We look at the time, resources, and goals. We open a dialogue about what is both ambitious and realistic. We can help you choose a direction, build what it calls for, and keep it useful as the business changes."
     data: "offer"
   -
     type: "services"
@@ -52,8 +52,8 @@ sections:
   -
     type: "work"
     title: "Different businesses. Thoughtful work behind each one."
-    eyebrow: "Selected work"
-    lead: "Explore our brand and ecommerce work for Colorado Sauce Company, local content and original research for TGB Flooring, and Shopify and email marketing work for Nano Bella."
+    eyebrow: "Selected Case Studies"
+    lead: "Explore the projects we have worked on with past and present clients. Discvover our brand and ecommerce work for Colorado Sauce Company, local content and Search Engine Optimization (SEO) for TGB Flooring, and Shopify and email marketing for Nano Bella."
     limit: 3
     feature: true
     link:
@@ -112,8 +112,14 @@ sections:
     type: "cta"
 ---
 
-We work with owners who know their business well but have limited time to explain it, promote it, and keep every piece of marketing up to date. The website may tell an old story. Customer questions may go unanswered. A promising idea may still need a reason for someone to choose it.
+We work with founders, leaders, and owners who know their business well. You are the master of your domain. You know how to build the product, how to execute the contracts. Yet you have limited time to explain it, promote it, and keep every piece of marketing up to date.
 
-We begin with those details. We look at what customers need to understand, what the business already does well, and where the current marketing falls short. Then we agree on what deserves attention first, with your time and budget in view.
+We begin with these details, working together.
 
-Our work combines research, writing, design, and implementation. We can develop the recommendations and help carry them through: a clearer offer, a rebuilt website, useful content, or a better way to follow up with interested customers. We leave room for the things that make the business yours.
+- **We will look at where the business is already succeeding, and we will double down on these efforts.** You've already built a strong foundation. How can we leverage this to scale upward?
+- **We will navigate the fog of conflicting marketing advice, and evaluate which efforts will actually get you results.** Not every business needs to have a regular social media presence. Some businesses don't need a website at all. These are the honest conversations that excite us.
+- **We will build a plan that actually aligns with what you can give.** We know how difficult it is to manage the business already. There simply isn't time to post on social media, send out emails to a list, run paid ads, optimize SEO, and run a community all while trying keep your customers and clients happy. Our goal is to find the one or two key actions that will move the needle for your business.
+
+ Together we will agree on what deserves attention first, with your time and budget in view. Then we will move forward, developing assets and systems that align with the vision you have for your business.
+
+Our work combines research, writing, design, development, and implementation. We can develop the recommendations and help carry them through: a clearer offer, a rebuilt website, useful content, a reusable system, or a better way to follow up with interested customers. 
