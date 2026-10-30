@@ -21,7 +21,7 @@ We’re especially interested in health, wellness, and the outdoors. We also enj
 
 Antilo is led by David DeBonis. You work directly with the person asking the questions, shaping the message, and building the work. You can talk through an idea with him, see how it develops, and ask questions as the work takes shape.
 
-{{< personal-photo "david_debonis_studious.JPG" >}}
+{{< personal-photo "david_debonis_studious1.JPG" >}}
 
 [Meet David](/team/)
 
