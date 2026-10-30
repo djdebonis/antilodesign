@@ -4,9 +4,9 @@ description: "We help founder-led businesses and organizations decide where to f
 sections:
   -
     type: "hero"
-    title: "We help you decide what your marketing needs next."
+    title: "Your story is your brand's greatest asset. We help you bring it to life."
     eyebrow: "Marketing consulting & design for founder-led businesses"
-    lead: "We work with business owners, organizational leaders, and project managers who need marketing, communications, and design expertise without hiring a full-time employee or team. We help you decide where to focus, put your offer into words, and carry that direction into your website, content, and customer/client follow-up."
+    lead: "We work with business owners, organizational leaders, and project managers who need marketing, communications, and design services without hiring a full-time employee or team. We help you decide where to focus, put your offer into words, and leverage brand storytelling to connect you with your target audience through your website, content, communications, and customer/client follow-up."
     image: "images/antilo_consulting_landscape_sunset.jpg"
     imageAlt: "Sunlight filtering through pine trees onto a grassy forest floor"
     primary:

@@ -1,7 +1,13 @@
 /* Antilo palette overrides. Pico Corp automatically loads this file last.
    Buttons and links: params.primaryColor / primaryColorDark in hugo.toml.
-   Everything below changes color only; the theme still controls layout.
+   Local palette and component adjustments follow.
    See COLOR-GUIDE.md for a map of these settings. */
+
+/* Sections own their spacing through padding. Pico's external bottom margin
+   exposes the page background between adjacent colored sections. */
+.section {
+  margin-block-end: 0;
+}
 
 /* 1. Light: warm off-white pages, ink type, sage sections, stone supporting surfaces. */
 :root, [data-theme="light"] {
