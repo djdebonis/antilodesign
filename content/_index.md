@@ -15,7 +15,7 @@ sections:
     secondary:
       label: "Explore our services"
       url: "/services/"
-    note: "Denver roots. Autnethic experience. A mission to serve."
+    note: "Denver roots. Authentic experience. A mission to serve."
     facts:
       -
         value: "Clarify"
@@ -54,7 +54,7 @@ sections:
     type: "services"
     title: "Bring your ideas into the world."
     eyebrow: "Our services"
-    lead: "Maybe your website needs an upgrade. Maybe you want to show up on Google. Maybe you want to see if social media is a good use of your time. Maybe you’re starting from a blank page. In any case, we connect strategy, words, and design around the problem that matters most."
+    lead: "Maybe your website needs an upgrade. Maybe you want to show up on Google. Maybe you want to see if social media is a good use of your time. Maybe you’re starting from a blank page. In any case, we connect strategy, story, and design around the problem that matters most."
     tone: "muted"
     link:
       label: "Explore all services"

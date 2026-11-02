@@ -3,7 +3,7 @@ relatedWork: ["/work/colorado-sauce-company/"]
 title: "Branding & Marketing Strategy"
 weight: 50
 icon: "spark"
-description: "Brand positioning, visual identity, and practical marketing consulting for Denver businesses."
+description: "Brand positioning, visual identity, and practical marketing consulting for Denver businesses and beyond."
 eyebrow: "Service"
 lead: "Sometimes the business has changed and the way it presents itself hasn’t caught up. Sometimes the idea is still taking shape. We help you work through what you offer, who it matters to, and how to express it in words and design. That gives the website, the packaging, and the rest of your marketing a shared place to begin."
 summary: "Find the words, identity, and direction that make your business recognizable."
@@ -52,6 +52,8 @@ deliverables:
 
 ## The best starting point is what’s already true.
 
-A brand lives in more places than a logo. It is in the way your website explains a service, the proposal you send, and the material a customer takes home.
+A brand lives in more places than a logo. A brand is everything a prospect or consumer associates with your business. 
+
+It is in the way your website explains a service, the proposal you send, the content you post, and the material a customer takes home.
 
 Our consulting and design work brings those pieces together. Whether you need a new identity or a clearer use of what you already have, the starting point is the same: understand the business before deciding how it should look and sound.

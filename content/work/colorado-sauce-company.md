@@ -1,7 +1,7 @@
 ---
 imageCaption: "Product label design for the transition to Colorado Sauce Company."
 interiorOrder: 1
-interiorLead: "A new name had to make sense everywhere people met the business. As Yampa Valley Sauce Company became Colorado Sauce Company, we carried the updated branding through the labels, the website, and the ways customers discovered and bought the products."
+interiorLead: "A new name had to make sense everywhere people met the business. As Yampa Valley Sauce Company became Colorado Sauce Company, we carried the updated branding through the labels, the website, and the ways customers discovered and purchased products."
 interiorPortfolio: true
 title: "Colorado Sauce Company"
 image: "images/colorado_sauce_company_colored_logos.png"
